@@ -26,3 +26,26 @@ All hands-on artifacts and surveys are designed to be reused as empirical materi
 - Day 1: Research Modeling (Lifecycle)
 - Day 2: Research Data Lifecycle
 - Day 3: Research Software Development Lifecycle
+
+## Hands-On Session Notes:
+
+The hands-on sessions of this workshop will be conducted **live and in a group-based format**. The items listed below are intended to help ensure a smoother and more effective learning experience. Following these recommendations will significantly improve team collaboration and productivity during the sessions.
+
+---
+
+## 💻 Technical Requirements
+
+- A laptop with **stable internet access**  
+- A working **Python execution environment (Python 3.9 or higher)**  
+- A simple and functional IDE such as **VS Code, PyCharm, Google Colab, GitHub Codespaces, or Jupyter Notebook**  
+- Reliable internet connectivity  
+- An account on a **Generative AI platform that supports file uploads**, such as:
+    - ChatGPT  
+    - Gemini  
+    - Claude  
+    - DeepSeek  
+    - or similar tools  
+
+📝 You may also use Iranian platforms such as **GapGpt.app** or **AvalAi.ir**, which provide free plans.
+
+📝 If you have the technical background and prefer more control, you may also use **local models** (e.g., via **Ollama**) for running LLMs on your own machine.
