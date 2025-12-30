@@ -1,5 +1,8 @@
 # From Research Modeling to Software Artifacts: A Lifecycle-Aware Workshop on Generative AI
 
+JOIN TELEGRAM CHANNEL:
+https://t.me/+ilfo_HegNxFhNWZk
+
 ![Flyer](Flyer-Fa-Minimal.jpg "Workshop Details")
 
 **Host Institution**: Shiraz University
