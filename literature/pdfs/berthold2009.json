@@ -1,0 +1,149 @@
+{
+  "title": "KNIME: The Konstanz Information Miner – Version 2.0 and Beyond",
+  "year": "2009",
+  "authors": [
+    "Michael R. Berthold",
+    "Nicolas Cebron",
+    "Fabian Dill",
+    "Thomas R. Gabriel",
+    "Tobias Kötter",
+    "Thorsten Meinl",
+    "Peter Ohl",
+    "Kilian Thiel",
+    "Bernd Wiswedel"
+  ],
+  "venue": "SIGKDD Explorations, Volume 11, Issue 1",
+  "research_phases": [
+    {
+      "phase": "Workflow design and problem setup",
+      "evidence": "Section 1 (Introduction): visual assembly and adaptation of the analysis flow from standardized building blocks."
+    },
+    {
+      "phase": "Data collection and ingestion",
+      "evidence": "Section 2 (Overview): workflows usually start with nodes that read data from text files or databases."
+    },
+    {
+      "phase": "Data preprocessing and transformation",
+      "evidence": "Section 2: handling missing values, filtering rows/columns, oversampling, partitioning into training and test data."
+    },
+    {
+      "phase": "Modeling and analysis",
+      "evidence": "Section 2: building predictive models using decision trees, Naive Bayes, SVMs, clustering."
+    },
+    {
+      "phase": "Visualization and interactive exploration",
+      "evidence": "Sections 2 and 3.5: view nodes and hiliting for interactive visual exploration."
+    },
+    {
+      "phase": "Iteration and validation",
+      "evidence": "Section 5.1: loop support for cross-validation, feature elimination, repeated experiments."
+    }
+  ],
+  "activities": [
+    {
+      "activity": "Visually assembling workflows from modular nodes",
+      "evidence": "Section 1 and Figure 1: drag-and-drop workflow construction in the KNIME workbench."
+    },
+    {
+      "activity": "Importing data from files and databases",
+      "evidence": "Section 2: reading data from text files or querying databases with special nodes."
+    },
+    {
+      "activity": "Preprocessing and transforming data tables",
+      "evidence": "Section 2: filtering, missing value handling, partitioning, oversampling."
+    },
+    {
+      "activity": "Training machine learning and data mining models",
+      "evidence": "Section 2: decision trees, Naive Bayes classifiers, SVMs, clustering algorithms."
+    },
+    {
+      "activity": "Visualizing results and models with interactive brushing",
+      "evidence": "Section 3.5: views, HiLiteHandler, visual brushing across tables and models."
+    },
+    {
+      "activity": "Iterating workflows using loops and flow variables",
+      "evidence": "Section 5.1 and Figure 5: loop start/end nodes for cross validation and feature elimination."
+    }
+  ],
+  "inputs": [
+    {
+      "input": "Raw data from text files and databases",
+      "evidence": "Section 2: data sources include text files and database queries."
+    },
+    {
+      "input": "Internal data tables with typed columns",
+      "evidence": "Section 2 and Section 3.1: DataTable with columns of specific data types."
+    },
+    {
+      "input": "Workflow configurations and node parameters",
+      "evidence": "Section 3.2 and NodeDialog description."
+    },
+    {
+      "input": "External tools and libraries",
+      "evidence": "Section 4: integration of Weka, R, JFreeChart, CDK."
+    }
+  ],
+  "outputs": [
+    {
+      "output": "Processed and transformed data tables",
+      "evidence": "Section 2: modified, filtered, and partitioned tables passed between nodes."
+    },
+    {
+      "output": "Trained predictive models",
+      "evidence": "Section 2 and Section 5.4: decision trees, clusters, PMML models."
+    },
+    {
+      "output": "Visualizations and interactive views",
+      "evidence": "Sections 2 and 3.5: table views, scatterplots, model views."
+    },
+    {
+      "output": "Reusable workflows and meta-nodes",
+      "evidence": "Section 3.6: encapsulation of sub-workflows as Meta Nodes."
+    }
+  ],
+  "tools_and_methods": [
+    {
+      "tool-method": "KNIME workflow management system",
+      "evidence": "Abstract and throughout the paper."
+    },
+    {
+      "tool-method": "Visual dataflow and DAG-based workflow model",
+      "evidence": "Section 3.3 and Figure 2."
+    },
+    {
+      "tool-method": "Machine learning and data mining algorithms (Weka integration)",
+      "evidence": "Section 4: Weka integration with ~100 nodes."
+    },
+    {
+      "tool-method": "Statistical computing with R",
+      "evidence": "Section 4: R integration and R Predictor/R View nodes."
+    },
+    {
+      "tool-method": "PMML for model exchange",
+      "evidence": "Section 5.4: PMML support for predictive models."
+    },
+    {
+      "tool-method": "Eclipse-based plugin architecture",
+      "evidence": "Sections 1 and 3: KNIME implemented as an Eclipse plugin with open API."
+    }
+  ],
+  "challenges_and_limitations": [
+    {
+      "challenge": "Need for easy extensibility and modularity in data analysis environments",
+      "evidence": "Section 1 and Section 3: motivation for KNIME’s architecture."
+    },
+    {
+      "challenge": "Scalability and memory management for large data tables",
+      "evidence": "Section 3.1: caching strategy and avoidance of random row access."
+    },
+    {
+      "challenge": "Limited interoperability of PMML preprocessing steps",
+      "evidence": "Section 5.4: preprocessing not exported as part of PMML."
+    },
+    {
+      "challenge": "Complexity of iterative workflows in DAG-based models",
+      "evidence": "Section 5.1: need for special loop start and loop end nodes."
+    }
+  ],
+  "summary": "The paper presents KNIME as a modular, visual workflow system supporting the full data analysis lifecycle from data ingestion to modeling and visualization. It defines explicit workflow stages, activities, inputs, outputs, and architectural components, illustrated through multiple diagrams and examples. The work also compares KNIME to other data-pipelining tools and discusses extensibility, scalability, and interoperability challenges."
+}

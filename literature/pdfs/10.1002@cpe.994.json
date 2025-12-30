@@ -1,0 +1,129 @@
+{
+  "title": "Scientific workflow management and the Kepler system",
+  "year": "2006",
+  "authors": [
+    "Bertram Ludäscher",
+    "Ilkay Altintas",
+    "Chad Berkley",
+    "Dan Higgins",
+    "Efrat Jaeger",
+    "Matthew Jones",
+    "Edward A. Lee",
+    "Jing Tao",
+    "Yang Zhao"
+  ],
+  "venue": "Concurrency and Computation: Practice and Experience",
+  "research_phases": [
+    {
+      "phase": "Workflow design and composition",
+      "evidence": "Section 2 and Section 3 describe designing scientific workflows using actors, ports, and directors (Pages 2–3, 15)."
+    },
+    {
+      "phase": "Data acquisition and preparation",
+      "evidence": "Example workflows retrieve data from databases such as GenBank or mineral composition databases (Sections 2.1.1 and 2.1.2, Pages 3–6)."
+    },
+    {
+      "phase": "Analysis and computation",
+      "evidence": "Cluster analysis, BLAST searches, mineral classification logic, and HPC job execution are described (Sections 2.1.1–2.1.3, Pages 3–7)."
+    },
+    {
+      "phase": "Execution and orchestration",
+      "evidence": "Execution controlled by directors and Grid/HPC orchestration (Sections 3.2–3.3, Pages 13–15)."
+    },
+    {
+      "phase": "Inspection, iteration, and validation",
+      "evidence": "User interaction, parameter changes, smart re-runs, and iterative refinement are discussed (R6, R7 in Section 2.2, Pages 9–10)."
+    }
+  ],
+  "activities": [
+    {
+      "activity": "Composing workflows from reusable actors and subworkflows",
+      "evidence": "Actors, composite actors, and workflow wiring discussed throughout Sections 2.1 and 3 (Pages 3–8, 15)."
+    },
+    {
+      "activity": "Querying remote databases and services",
+      "evidence": "Accessing GenBank, BLAST, and Web services via WebService actors (Sections 2.1.1 and 3.1, Pages 3–4, 11)."
+    },
+    {
+      "activity": "Data transformation and analysis",
+      "evidence": "Use of clustering, classification diagrams, XSLT/XQuery, and command-line tools (Sections 2.1.1–2.1.3 and 3.1–3.2)."
+    },
+    {
+      "activity": "Running and managing large-scale computations",
+      "evidence": "HPC job scheduling with GAMESS and Nimrod-G (Section 2.1.3, Pages 6–7)."
+    },
+    {
+      "activity": "User interaction and iterative refinement",
+      "evidence": "Inspection of intermediate results, pausing, parameter changes, and re-ranking (R6, R7, Pages 9–10, 14)."
+    }
+  ],
+  "inputs": [
+    {
+      "input": "Scientific data sets (e.g., microarray data, mineral composition data)",
+      "evidence": "Promoter Identification and Mineral Classification workflows (Sections 2.1.1 and 2.1.2, Pages 3–6)."
+    },
+    {
+      "input": "Remote services and databases",
+      "evidence": "GenBank, BLAST, Web services, SRB, GridFTP (Sections 2.1.1, 3.1, 3.2)."
+    },
+    {
+      "input": "Computational resources (Grid/HPC)",
+      "evidence": "Use of Globus, Nimrod-G, cluster computers (Sections 2.1.3 and 3.2, Pages 6–7, 13–14)."
+    }
+  ],
+  "outputs": [
+    {
+      "output": "Derived scientific results (e.g., promoter models, mineral classifications)",
+      "evidence": "Outputs of PIW and mineral classification workflows (Sections 2.1.1–2.1.2, Pages 3–6)."
+    },
+    {
+      "output": "Workflow execution results and visualizations",
+      "evidence": "Browser actor, SVG visualizations, and result displays (Sections 2.1.2 and 3.2, Pages 5–6, 14)."
+    },
+    {
+      "output": "Provenance records and reproducible workflows",
+      "evidence": "Data provenance requirement R9 (Section 2.2, Page 9)."
+    }
+  ],
+  "tools_and_methods": [
+    {
+      "tool-method": "Kepler scientific workflow system",
+      "evidence": "Described throughout the paper, especially Sections 2 and 3."
+    },
+    {
+      "tool-method": "Ptolemy II and actor-oriented modeling",
+      "evidence": "Sections 3 and 3.3 (Pages 15–16)."
+    },
+    {
+      "tool-method": "Web services (WSDL, WebService actors, Harvester)",
+      "evidence": "Section 3.1 (Pages 11–12)."
+    },
+    {
+      "tool-method": "Grid and HPC tools (Globus, GridFTP, Nimrod-G)",
+      "evidence": "Sections 2.1.3 and 3.2 (Pages 6–7, 13–14)."
+    },
+    {
+      "tool-method": "Data transformation and scripting tools (XSLT, XQuery, Perl, Python, R)",
+      "evidence": "Sections 3.1–3.3 (Pages 12–15)."
+    }
+  ],
+  "challenges_and_limitations": [
+    {
+      "challenge": "Complexity of Grid middleware and evolving standards",
+      "evidence": "Introduction and Section 2 (Pages 1–2)."
+    },
+    {
+      "challenge": "Semantic heterogeneity and data integration",
+      "evidence": "Discussion of semantic typing and ontologies (Section 2, Page 2; R8, Page 9)."
+    },
+    {
+      "challenge": "Service reliability and fault tolerance",
+      "evidence": "R5 and discussion of Web service failures (Pages 8–9, 12)."
+    },
+    {
+      "challenge": "Scalability and long-running workflow execution",
+      "evidence": "R3 and R4 (Page 8)."
+    }
+  ],
+  "summary": "The paper presents a comprehensive framework for scientific workflow management, grounded in real-world examples and implemented in the Kepler system. It explicitly defines workflow stages, activities, inputs, outputs, tools, and challenges, supported by diagrams and comparisons with business workflows. Kepler, built on Ptolemy II’s actor-oriented modeling, is positioned as a flexible, extensible environment for reproducible, data- and compute-intensive scientific research."
+}

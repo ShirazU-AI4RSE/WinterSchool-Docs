@@ -1,0 +1,121 @@
+{
+  "title": "Workflow Systems for Science: Concepts and Tools",
+  "year": "2013",
+  "authors": [
+    "Domenico Talia"
+  ],
+  "venue": "ISRN Software Engineering (Hindawi Publishing Corporation)",
+  "research_phases": [
+    {
+      "phase": "Workflow design and composition",
+      "evidence": "Section 2, 'Workflow Programming': discussion of workflow programming structures and composition; design stage described where users compose workflows using tools and interfaces."
+    },
+    {
+      "phase": "Abstract workflow specification",
+      "evidence": "Section 2: 'Abstract Workflows. At this high level of abstraction a workflow contains just information about what has to be done at each task...' "
+    },
+    {
+      "phase": "Concrete workflow mapping",
+      "evidence": "Section 2: 'Concrete Workflows. The mapping stage to a concrete workflow annotates each of the tasks with information about the implementation and/or resources to be used.'"
+    },
+    {
+      "phase": "Workflow execution (enactment)",
+      "evidence": "Section 2 and Section 3: description of workflow enactment engines, task-to-resource mapping, and execution on distributed systems."
+    },
+    {
+      "phase": "Monitoring, fault handling, and provenance capture",
+      "evidence": "Section 2 (robustness, monitoring, exception handling) and Section 4 (workflow provenance and fault tolerance as open issues)."
+    }
+  ],
+  "activities": [
+    {
+      "activity": "Composing workflows as graphs of tasks with data/control dependencies",
+      "evidence": "Section 2: workflows programmed as DAGs or cyclic graphs; tasks represent logical steps of a process."
+    },
+    {
+      "activity": "Specifying task dependencies and data flows",
+      "evidence": "Section 2: discussion of data dependencies and control dependencies between workflow tasks."
+    },
+    {
+      "activity": "Mapping tasks to distributed computing resources",
+      "evidence": "Section 2 and Section 3: mapping workflow tasks to Grid, Cloud, and HPC resources during execution."
+    },
+    {
+      "activity": "Executing and scheduling tasks in parallel or distributed environments",
+      "evidence": "Section 3 (e.g., Pegasus, Askalon, Kepler): execution engines schedule and run tasks across resources."
+    },
+    {
+      "activity": "Handling failures, monitoring execution, and restarting workflows",
+      "evidence": "Section 2: robustness issues including failure detection, recovery, checkpointing, and monitoring."
+    }
+  ],
+  "inputs": [
+    {
+      "input": "Scientific data sets from instruments, simulations, or repositories",
+      "evidence": "Introduction and Figure 1 example: sensor data collected by ocean buoys and processed by workflows."
+    },
+    {
+      "input": "Workflow specifications (abstract or concrete)",
+      "evidence": "Section 2: abstract workflows specify what tasks do; concrete workflows specify implementations and resources."
+    },
+    {
+      "input": "Computational resources (HPC, Grid, Cloud, clusters)",
+      "evidence": "Introduction and Section 3: workflows executed on parallel and distributed computing infrastructures."
+    }
+  ],
+  "outputs": [
+    {
+      "output": "Processed data and scientific results",
+      "evidence": "Section 1 and Figure 1: workflows transform raw data into results such as visualization charts."
+    },
+    {
+      "output": "Reusable workflow specifications and patterns",
+      "evidence": "Section 1: workflows can be stored, retrieved, modified, and reused in different scenarios."
+    },
+    {
+      "output": "Provenance and execution metadata",
+      "evidence": "Section 4: discussion of workflow provenance and annotation mechanisms for interpreting and reusing results."
+    }
+  ],
+  "tools_and_methods": [
+    {
+      "tool-method": "Scientific Workflow Management Systems (WMS)",
+      "evidence": "Throughout Section 3: definition and role of WMSs in composing, mapping, and executing workflows."
+    },
+    {
+      "tool-method": "Specific workflow systems: Taverna, Pegasus, Triana, Kepler, Askalon, GWES, Karajan, DVega, Weka4WS",
+      "evidence": "Section 3: detailed subsections 3.1–3.9 describing features and architectures of each system."
+    },
+    {
+      "tool-method": "Workflow models and formalisms (DAGs, Petri nets, BPEL, XML-based languages)",
+      "evidence": "Section 2 and Section 3: discussion of DAGs, cyclic graphs, Petri nets, BPEL, and XML workflow languages."
+    },
+    {
+      "tool-method": "Graphical and textual workflow programming interfaces",
+      "evidence": "Section 2: comparison between graphical-based and script-based workflow programming approaches."
+    }
+  ],
+  "challenges_and_limitations": [
+    {
+      "challenge": "Fault tolerance and recovery in large-scale workflows",
+      "evidence": "Section 2 and Section 4 (viii): need for explicit fault-tolerance and recovery strategies."
+    },
+    {
+      "challenge": "Workflow provenance capture and management",
+      "evidence": "Section 4 (xi): challenges in storing, visualizing, and interoperating provenance data."
+    },
+    {
+      "challenge": "Interoperability among heterogeneous workflow systems",
+      "evidence": "Section 3: different workflow languages and models hinder sharing and interoperability."
+    },
+    {
+      "challenge": "Scalability and efficient execution on massive parallel systems",
+      "evidence": "Section 4: discussion of execution efficiency on large-scale and dynamic infrastructures."
+    },
+    {
+      "challenge": "Lack of high-level abstractions for workflow composition",
+      "evidence": "Section 4 (ii): need for higher-level tools and languages for workflow programming."
+    }
+  ],
+  "summary": "This review paper surveys core concepts, programming models, and tools for scientific workflow systems. It defines abstract and concrete workflow stages, describes activities, inputs, outputs, and execution mechanisms, and compares multiple workflow management systems with supporting diagrams. The paper also highlights key challenges such as fault tolerance, provenance, interoperability, and scalability in next-generation scientific workflows."
+}

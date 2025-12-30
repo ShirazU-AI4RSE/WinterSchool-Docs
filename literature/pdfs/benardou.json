@@ -1,0 +1,132 @@
+{
+  "title": "A Conceptual Model for Scholarly Research Activity",
+  "year": "2010",
+  "authors": [
+    "Agiatis Benardou",
+    "Panos Constantopoulos",
+    "Costis Dallas",
+    "Dimitris Gavrilis"
+  ],
+  "venue": "Proceedings related to the Preparing DARIAH project (conference paper in digital humanities / information science context)",
+  "research_phases": [
+    {
+      "phase": "Research planning",
+      "evidence": "Abstract and Section 4: distinction between planning (procedure) and execution of research activities."
+    },
+    {
+      "phase": "Research execution",
+      "evidence": "Section 4: research process as enactment of procedures, composed of tasks and subtasks possibly carried out in parallel or sequence."
+    },
+    {
+      "phase": "Information seeking and use",
+      "evidence": "Sections 1–3: discovery, appraisal, aggregation, organisation, and use of scholarly resources across the research lifecycle."
+    },
+    {
+      "phase": "Knowledge construction and reasoning",
+      "evidence": "Section 4: development of propositions, concepts, hypotheses, arguments, and inferences during research activity."
+    },
+    {
+      "phase": "Curation, sharing, and reuse",
+      "evidence": "Section 4 and Discussion: creation, curation, searching, sharing, and repository population of information objects."
+    }
+  ],
+  "activities": [
+    {
+      "activity": "Planning research through procedures and methods",
+      "evidence": "Section 4: association of Research Activity with Procedure and Method to capture normative and planning aspects."
+    },
+    {
+      "activity": "Executing research tasks and subtasks",
+      "evidence": "Section 4: research processes consist of tasks that may be analyzed down to elementary tasks."
+    },
+    {
+      "activity": "Developing and evaluating propositions (hypotheses, arguments)",
+      "evidence": "Section 4: Proposition entity and properties such as develops, supports, counters, analyzes."
+    },
+    {
+      "activity": "Collecting, reading, annotating, and curating information objects",
+      "evidence": "Figures 1 and 2; Section 4: scholarly primitives such as collects, reads, annotates, curates."
+    },
+    {
+      "activity": "Searching, sharing, and managing digital scholarly resources",
+      "evidence": "Section 4: information objects are searched and shared via repositories and services."
+    }
+  ],
+  "inputs": [
+    {
+      "input": "Primary evidence and documentary sources",
+      "evidence": "Abstract and Section 1: primary data and documentary evidence as central research objects."
+    },
+    {
+      "input": "Existing scholarly works and reference resources",
+      "evidence": "Section 1: use of unpublished and published research, reference works, terminological resources."
+    },
+    {
+      "input": "Research goals and motives",
+      "evidence": "Section 4: Research Goal entity capturing purpose and motivation of activities."
+    },
+    {
+      "input": "Methods, procedures, and tools",
+      "evidence": "Section 4: procedures employ methods and require tools and services."
+    }
+  ],
+  "outputs": [
+    {
+      "output": "Information objects (datasets, documents, annotations)",
+      "evidence": "Section 4: information objects created during research and curated in repositories."
+    },
+    {
+      "output": "Concepts and propositions (hypotheses, arguments, theories)",
+      "evidence": "Section 4: Concept and Proposition entities developed and referred to during research."
+    },
+    {
+      "output": "Structured representations of research activity",
+      "evidence": "Abstract and Discussion: model used to structure and analyze empirical research on scholarly practice."
+    },
+    {
+      "output": "Requirements for digital infrastructures and services",
+      "evidence": "Abstract and Discussion: framework intended to inform specifications of tools and services."
+    }
+  ],
+  "tools_and_methods": [
+    {
+      "tool-method": "Conceptual modelling using CIDOC Conceptual Reference Model (CRM)",
+      "evidence": "Abstract and Section 4: model expressed as extensions of CIDOC CRM activity concepts."
+    },
+    {
+      "tool-method": "Cultural-historical activity theory",
+      "evidence": "Section 3: explicit grounding in Leont’ev’s activity theory."
+    },
+    {
+      "tool-method": "Empirical interviews and qualitative coding",
+      "evidence": "Section 3: semi-structured interviews, transcription, tagging, and abstraction of concepts."
+    },
+    {
+      "tool-method": "Event-centric and process/procedure modelling",
+      "evidence": "Section 3 and Section 4: distinction between process enactment and normative procedure."
+    }
+  ],
+  "challenges_and_limitations": [
+    {
+      "challenge": "Existing models focus narrowly on information seeking rather than the full research lifecycle",
+      "evidence": "Section 3, point 1: critique of prior conceptualisations."
+    },
+    {
+      "challenge": "Insufficient modelling of primary evidence and research objects",
+      "evidence": "Section 3, point 2: emphasis on lack of explicit modelling of primary data."
+    },
+    {
+      "challenge": "Overemphasis on process without formal object modelling",
+      "evidence": "Section 3, point 3: critique of privileging process over objects."
+    },
+    {
+      "challenge": "Lack of a single formal model integrating entities and relationships",
+      "evidence": "Section 3, point 4: no single model representing entities and relations in the research process."
+    },
+    {
+      "challenge": "Previous frameworks are descriptive but not operationalisable",
+      "evidence": "Section 3, point 5: limitation of explanatory schematisations."
+    }
+  ],
+  "summary": "This paper proposes a formal, generic conceptual model of scholarly research activity that spans planning, execution, knowledge construction, and curation across the full research lifecycle. Grounded in activity theory and expressed using CIDOC CRM, it integrates activities, goals, methods, tools, and research objects, supported by explicit diagrams. The model addresses limitations of prior process-centric approaches and is intended to guide empirical analysis and the design of digital research infrastructures."
+}

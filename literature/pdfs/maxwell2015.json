@@ -1,0 +1,137 @@
+{
+  "title": "The Research Lifecycle as a Strategic Roadmap",
+  "year": "2015",
+  "authors": [
+    "Dan Maxwell"
+  ],
+  "venue": "Journal of Library Administration",
+  "research_phases": [
+    {
+      "phase": "Mastery (Pre-research content mastery)",
+      "evidence": "Section 'The Mastery Cycle': discussion of reading, thinking, writing, and disciplinary knowledge as prerequisites for research."
+    },
+    {
+      "phase": "Planning cycle",
+      "evidence": "Section 'The Planning Cycle': literature review, citation management, ethics review, grant discovery, and data management planning."
+    },
+    {
+      "phase": "Project cycle",
+      "evidence": "Section 'The Project Cycle': execution of experiments, observations, data collection, and methodological support."
+    },
+    {
+      "phase": "Publication cycle",
+      "evidence": "Section 'The Publication Cycle': writing, editing, peer review, publishing, and intellectual property considerations."
+    },
+    {
+      "phase": "Electronic preservation cycle",
+      "evidence": "Section 'The Electronic Preservation Cycle': preservation, dissemination, metadata creation, repositories, and data curation."
+    }
+  ],
+  "activities": [
+    {
+      "activity": "Developing disciplinary mastery through reading, writing, and tutoring",
+      "evidence": "Mastery Cycle: reading, writing, peer tutoring, and communities of practice."
+    },
+    {
+      "activity": "Conducting literature reviews and managing citations",
+      "evidence": "Planning Cycle: literature review and use of citation management tools such as RefWorks and EndNote."
+    },
+    {
+      "activity": "Ensuring legal and ethical compliance (IRB)",
+      "evidence": "Planning Cycle: discussion of IRB workflows and ethical oversight."
+    },
+    {
+      "activity": "Executing research projects and collecting data",
+      "evidence": "Project Cycle: conducting experiments, field observations, generating datasets and notes."
+    },
+    {
+      "activity": "Analyzing, organizing, and annotating data",
+      "evidence": "Project Cycle: metadata tagging, dataset organization with librarian support."
+    },
+    {
+      "activity": "Writing, editing, peer review, and publishing",
+      "evidence": "Publication Cycle: writing centers, peer review systems, electronic publishing."
+    },
+    {
+      "activity": "Preserving and disseminating scholarly outputs",
+      "evidence": "Electronic Preservation Cycle: institutional repositories, metadata services, open access platforms."
+    }
+  ],
+  "inputs": [
+    {
+      "input": "Disciplinary knowledge and prior literature",
+      "evidence": "Mastery Cycle: prerequisite content mastery and literature familiarity."
+    },
+    {
+      "input": "Research questions and project proposals",
+      "evidence": "Planning Cycle: formulation of research questions and proposals."
+    },
+    {
+      "input": "Primary data, observations, and notes",
+      "evidence": "Project Cycle: datasets and notes generated during research execution."
+    },
+    {
+      "input": "Funding resources and grants",
+      "evidence": "Planning Cycle: grant discovery and funded research requirements."
+    }
+  ],
+  "outputs": [
+    {
+      "output": "Research proposals and data management plans",
+      "evidence": "Planning Cycle: NSF-mandated data management plans and project proposals."
+    },
+    {
+      "output": "Datasets and annotated research materials",
+      "evidence": "Project Cycle: organized datasets with metadata."
+    },
+    {
+      "output": "Publications (articles, books, reports)",
+      "evidence": "Publication Cycle: peer-reviewed articles and electronic publications."
+    },
+    {
+      "output": "Preserved digital scholarship and repositories",
+      "evidence": "Electronic Preservation Cycle: institutional repositories and open access dissemination."
+    }
+  ],
+  "tools_and_methods": [
+    {
+      "tool-method": "Research lifecycle framework",
+      "evidence": "Figure 1 and Section 'The Research Lifecycle'."
+    },
+    {
+      "tool-method": "Citation management tools (RefWorks, EndNote)",
+      "evidence": "Planning Cycle discussion of bibliographic automation tools."
+    },
+    {
+      "tool-method": "Institutional Review Board (IRB) workflows",
+      "evidence": "Planning Cycle: ethical and legal compliance processes."
+    },
+    {
+      "tool-method": "Data management planning (NSF DMP requirement)",
+      "evidence": "Planning Cycle: NSF data management plan mandate (2011)."
+    },
+    {
+      "tool-method": "Institutional repositories and open access platforms",
+      "evidence": "Electronic Preservation Cycle discussion."
+    }
+  ],
+  "challenges_and_limitations": [
+    {
+      "challenge": "Over-identification of research with information literacy alone",
+      "evidence": "Section 'The Research Lifecycle': critique of equating research solely with information literacy."
+    },
+    {
+      "challenge": "Sustainability and return on investment of digital curation",
+      "evidence": "Discussion in Sections on digital curation and collection development."
+    },
+    {
+      "challenge": "Lack of holistic understanding of the research experience in libraries",
+      "evidence": "Sections discussing limitations of LIS literature and service focus."
+    },
+    {
+      "challenge": "Fragmentation of research support services across campus",
+      "evidence": "Table 1 and discussion of need for strategic partnerships."
+    }
+  ],
+  "summary": "This paper presents a generic, cross-disciplinary research lifecycle model consisting of mastery, planning, project, publication, and preservation cycles. It details activities, inputs, outputs, tools, and institutional roles at each stage, supported by a lifecycle diagram and comparison with other models. The research lifecycle is positioned as a strategic framework for organizing and evaluating research support services."
+}

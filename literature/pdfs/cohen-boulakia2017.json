@@ -1,0 +1,126 @@
+{
+  "title": "Scientific workflows for computational reproducibility in the life sciences: Status, challenges and opportunities",
+  "year": "2017",
+  "authors": [
+    "Sarah Cohen Boulakia",
+    "Khalid Belhajjame",
+    "Olivier Collin",
+    "Jérôme Chopard",
+    "Christine Froidevaux",
+    "Alban Gaignard",
+    "Konrad Hinsen",
+    "Pierre Larmande",
+    "Yvan Le Bras",
+    "Frédéric Lemoine",
+    "Fabien Mareuil",
+    "Hervé Ménager",
+    "Christophe Pradal",
+    "Christophe Blanchet"
+  ],
+  "venue": "Future Generation Computer Systems (Elsevier)",
+  "research_phases": [
+    {
+      "phase": "Use case analysis",
+      "evidence": "Section 2: \"This paper starts with a set of three use cases, extracted from real projects...\""
+    },
+    {
+      "phase": "Conceptualization of reproducibility levels",
+      "evidence": "Section 3: \"We present in this section such levels of reproducibility.\""
+    },
+    {
+      "phase": "Framework and criteria definition",
+      "evidence": "Section 4: \"we introduce a set of criteria playing a major role in the ability of an in silico experiment to be reproducible.\""
+    },
+    {
+      "phase": "Evaluation and comparison of systems",
+      "evidence": "Section 5: \"evaluation of workflow systems on such criteria.\""
+    },
+    {
+      "phase": "Discussion of challenges and opportunities",
+      "evidence": "Section 6 (described in Introduction contribution list)"
+    }
+  ],
+  "activities": [
+    {
+      "activity": "Design and execution of scientific workflows",
+      "evidence": "Introduction: \"scientific workflow management systems...supporting scientists in developing, running, and monitoring chains of data analysis programs.\""
+    },
+    {
+      "activity": "Capturing provenance and execution traces",
+      "evidence": "Section 4.2: \"capture information about the execution of a workflow, including the inputs and output...\""
+    },
+    {
+      "activity": "Packaging runtime and scientific environments",
+      "evidence": "Section 4.3: \"we need to freeze and package the runtime environment of the workflow system.\""
+    },
+    {
+      "activity": "Comparing workflow systems using reproducibility criteria",
+      "evidence": "Section 5.2: \"Evaluation of representative workflow systems in the context of reproducibility.\""
+    }
+  ],
+  "inputs": [
+    {
+      "input": "Raw experimental data (e.g., sequencing data, images)",
+      "evidence": "Section 2 use cases: NGS data, plant images, RNA-seq data"
+    },
+    {
+      "input": "Workflow specifications and parameters",
+      "evidence": "Section 3.2: \"(i) S, the workflow specification... (ii) I, the input of the workflow\""
+    },
+    {
+      "input": "Runtime environments and software dependencies",
+      "evidence": "Section 4.3: \"operating system, cloud, libraries software utilized\""
+    }
+  ],
+  "outputs": [
+    {
+      "output": "Processed datasets and analysis results",
+      "evidence": "Section 3.2: \"R... the result of the analysis typically the final data sets\""
+    },
+    {
+      "output": "Scientific conclusions",
+      "evidence": "Section 3.2: \"C, the high level conclusion that can be reached from this analysis\""
+    },
+    {
+      "output": "Reusable workflows and workflow packages",
+      "evidence": "Sections 4 and 5 discussing sharing, repositories, and packaging"
+    }
+  ],
+  "tools_and_methods": [
+    {
+      "tool-method": "Scientific workflow management systems (Galaxy, OpenAlea, Taverna, Nextflow)",
+      "evidence": "Sections 2 and 5.2"
+    },
+    {
+      "tool-method": "Provenance standards (W3C PROV, OPMW, ProvONE)",
+      "evidence": "Section 5.1.2"
+    },
+    {
+      "tool-method": "Container and virtualization technologies (Docker, Conda, VirtualBox)",
+      "evidence": "Section 5.1.5"
+    },
+    {
+      "tool-method": "Workflow specification standards (CWL, IWIR)",
+      "evidence": "Section 5.1.1"
+    }
+  ],
+  "challenges_and_limitations": [
+    {
+      "challenge": "Heterogeneity of workflow languages and systems",
+      "evidence": "Section 4.1: \"Heterogeneity of workflow languages... represents a real impediment\""
+    },
+    {
+      "challenge": "Capturing evolving runtime environments",
+      "evidence": "Section 4.3: \"workflow environment has to be captured again (packaged)\""
+    },
+    {
+      "challenge": "Lack of standardized metadata and annotations",
+      "evidence": "Section 2.3.3: \"no standardized metadata is currently in use\""
+    },
+    {
+      "challenge": "Poor interoperability between workflow systems",
+      "evidence": "Section 2.3.3: \"workflow systems are currently poorly interoperable\""
+    }
+  ],
+  "summary": "The paper presents a comprehensive framework for understanding and improving computational reproducibility through scientific workflows in the life sciences. It defines reproducibility levels, proposes criteria for reproducible-friendly workflow systems, and evaluates major tools and standards. The work highlights persistent challenges such as interoperability, environment capture, and provenance management while outlining research opportunities."
+}

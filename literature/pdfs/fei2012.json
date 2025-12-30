@@ -1,0 +1,142 @@
+{
+  "title": "A Dataflow Based Scientific Workflow Composition Framework",
+  "year": "2012",
+  "authors": [
+    "Xubo Fei",
+    "Shiyong Lu"
+  ],
+  "venue": "IEEE Transactions on Services Computing",
+  "research_phases": [
+    {
+      "phase": "Requirement analysis",
+      "evidence": "Section 2: \"KEY REQUIREMENTS FOR A SCIENTIFIC WORKFLOW COMPOSITION MODEL\""
+    },
+    {
+      "phase": "Workflow model design",
+      "evidence": "Section 3: \"SCIENTIFIC WORKFLOW MODEL\" describing logical and physical layers (Fig. 2)."
+    },
+    {
+      "phase": "Workflow construction and composition",
+      "evidence": "Section 4: \"SCIENTIFIC WORKFLOW CONSTRUCTS AND COMPOSITION\""
+    },
+    {
+      "phase": "Execution and control (dataflow semantics)",
+      "evidence": "Sections 4.1–4.7 defining execution semantics for Map, Reduce, Tree, Conditional, Loop, Curry."
+    },
+    {
+      "phase": "Exception handling",
+      "evidence": "Section 5: \"A DATAFLOW BASED APPROACH FOR EXCEPTION HANDLING\""
+    },
+    {
+      "phase": "Implementation and validation",
+      "evidence": "Abstract and Introduction: \"The proposed framework is implemented and several case studies are conducted to validate our techniques.\""
+    }
+  ],
+  "activities": [
+    {
+      "activity": "Identifying requirements for scientific workflow composition",
+      "evidence": "Section 2 lists seven requirements (R1–R7)."
+    },
+    {
+      "activity": "Designing a dataflow-based workflow model with logical and physical layers",
+      "evidence": "Section 3 and Fig. 2(b)."
+    },
+    {
+      "activity": "Composing workflows using reusable dataflow constructs",
+      "evidence": "Section 4 and Fig. 4 defining Map, Reduce, Tree, Conditional, Loop, Curry."
+    },
+    {
+      "activity": "Executing workflows via data-driven execution and implicit parallelism",
+      "evidence": "Requirement R2 and execution semantics in Sections 4.1–4.6."
+    },
+    {
+      "activity": "Handling exceptions hierarchically using dataflow mechanisms",
+      "evidence": "Section 5 and Fig. 12 (exception ports and handlers)."
+    },
+    {
+      "activity": "Validating the framework through illustrative case studies",
+      "evidence": "Abstract and multiple examples in Section 4 (Figs. 5–11)."
+    }
+  ],
+  "inputs": [
+    {
+      "input": "Scientific data products (lists, pairs, tables of data)",
+      "evidence": "Examples in Sections 4.1–4.6 (e.g., input lists in Map, Reduce, Tree constructs)."
+    },
+    {
+      "input": "Workflow specifications and interfaces (ports and types)",
+      "evidence": "Section 3: logical layer defining input/output ports."
+    },
+    {
+      "input": "Computational resources and services abstracted as primitive workflows",
+      "evidence": "Section 3: \"Primitive workflows... abstractions of heterogeneous and distributed services.\""
+    },
+    {
+      "input": "User-defined predicates and parameters",
+      "evidence": "Sections 4.4 (Conditional), 4.5 (Loop), and 4.6 (Curry)."
+    }
+  ],
+  "outputs": [
+    {
+      "output": "Composed scientific workflows (graph-based and unary-construct-based)",
+      "evidence": "Section 4.7 and Figs. 3, 11."
+    },
+    {
+      "output": "Processed and aggregated data products",
+      "evidence": "Execution examples in Sections 4.1–4.6 (e.g., sums, lists, gcd results)."
+    },
+    {
+      "output": "Exception data products",
+      "evidence": "Section 5: \"exception data product\" and Fig. 12."
+    },
+    {
+      "output": "Reusable workflow abstractions",
+      "evidence": "Section 4.7: workflows as operands and closed under composition."
+    }
+  ],
+  "tools_and_methods": [
+    {
+      "tool-method": "Dataflow-based scientific workflow model",
+      "evidence": "Sections 1–3."
+    },
+    {
+      "tool-method": "Workflow constructs (Map, Reduce, Tree, Conditional, Loop, Curry)",
+      "evidence": "Section 4 and Fig. 4."
+    },
+    {
+      "tool-method": "Formal semantics and mathematical proofs",
+      "evidence": "Sections 4.1–4.6 (equations and theorems)."
+    },
+    {
+      "tool-method": "VIEW scientific workflow system",
+      "evidence": "Section 2 and references to \"our experience in developing the VIEW system.\""
+    },
+    {
+      "tool-method": "Comparison with MapReduce and business workflow languages (BPEL, YAWL)",
+      "evidence": "Introduction and Section 4 (comparison with original MapReduce model)."
+    }
+  ],
+  "challenges_and_limitations": [
+    {
+      "challenge": "Lack of fully compositional workflow constructs in existing systems",
+      "evidence": "Abstract and Introduction: \"none of them provides the workflow constructs... fully compositional.\""
+    },
+    {
+      "challenge": "Semantic complexity of hybrid controlflow/dataflow models",
+      "evidence": "Requirement R3 in Section 2."
+    },
+    {
+      "challenge": "Provenance correctness and reproducibility",
+      "evidence": "Requirement R5 and Fig. 1 discussion of single assignment property."
+    },
+    {
+      "challenge": "Heterogeneous data management and typing",
+      "evidence": "Requirement R6 in Section 2."
+    },
+    {
+      "challenge": "Exception handling across hierarchical workflows",
+      "evidence": "Requirement R7 and Section 5."
+    }
+  ],
+  "summary": "The paper proposes a formal, dataflow-based scientific workflow composition framework in which workflows are the sole operands for composition. It introduces fully composable workflow constructs with formal semantics, supports parallelism, provenance, and exception handling, and validates the approach through detailed examples. The framework is positioned as more expressive and mathematically elegant than existing scientific and business workflow models."
+}

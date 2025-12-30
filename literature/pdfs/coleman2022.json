@@ -1,0 +1,130 @@
+{
+  "title": "WfCommons: A framework for enabling scientific workflow research and development",
+  "year": "2022",
+  "authors": [
+    "Tainã Coleman",
+    "Henri Casanova",
+    "Loïc Pottier",
+    "Manav Kaushik",
+    "Ewa Deelman",
+    "Rafael Ferreira da Silva"
+  ],
+  "venue": "Future Generation Computer Systems",
+  "research_phases": [
+    {
+      "phase": "Workflow instance collection",
+      "evidence": "Section 3.1 (WfInstances): collection and curation of workflow execution instances from real executions using WMSs."
+    },
+    {
+      "phase": "Workflow analysis and modeling",
+      "evidence": "Section 3.2 (WfChef): analysis of real workflow instances to discover task dependency patterns and model performance characteristics."
+    },
+    {
+      "phase": "Synthetic workflow generation",
+      "evidence": "Section 3.3 (WfGen): generation of synthetic workflow instances based on recipes and desired task counts."
+    },
+    {
+      "phase": "Simulation and evaluation",
+      "evidence": "Section 3.4 (WfSim) and Section 4: simulation of workflows and experimental evaluation of realism and accuracy."
+    },
+    {
+      "phase": "Case study and validation",
+      "evidence": "Section 5: case study estimating energy consumption of large-scale workflows."
+    }
+  ],
+  "activities": [
+    {
+      "activity": "Collect execution logs and extract workflow instances",
+      "evidence": "Section 3.1: workflow instances are built from execution logs capturing runtime, I/O sizes, and dependencies."
+    },
+    {
+      "activity": "Analyze workflow structures and task performance",
+      "evidence": "Section 3.2: discovery of repeating subgraph patterns and fitting probability distributions to task runtimes and data sizes."
+    },
+    {
+      "activity": "Construct workflow recipes",
+      "evidence": "Section 3.2: WfChef outputs recipes encoding structural patterns and statistical models."
+    },
+    {
+      "activity": "Generate synthetic workflows at arbitrary scales",
+      "evidence": "Section 3.3: WfGen replicates pattern occurrences to produce workflows with a desired number of tasks."
+    },
+    {
+      "activity": "Simulate workflow execution and compare results",
+      "evidence": "Sections 4.2 and 4.3: simulation-based comparison of synthetic and real workflows using THF and makespan error."
+    }
+  ],
+  "inputs": [
+    {
+      "input": "Real workflow execution logs",
+      "evidence": "Section 3.1: instances derived from actual executions on clouds, grids, and clusters."
+    },
+    {
+      "input": "Workflow execution metrics (runtime, I/O sizes, energy, CPU usage)",
+      "evidence": "Section 3.1: task execution metrics included in WfFormat."
+    },
+    {
+      "input": "Computational platform specifications",
+      "evidence": "Section 4.1: Chameleon Cloud hardware configuration used for experiments."
+    }
+  ],
+  "outputs": [
+    {
+      "output": "Workflow execution instance archive",
+      "evidence": "Section 3.1 and Table 1: curated collection of 165 real workflow instances."
+    },
+    {
+      "output": "Workflow recipes and generators",
+      "evidence": "Section 3.2: recipes encoding patterns and statistical summaries."
+    },
+    {
+      "output": "Synthetic workflow instances",
+      "evidence": "Section 3.3: generated workflows with arbitrary numbers of tasks."
+    },
+    {
+      "output": "Quantitative evaluation results",
+      "evidence": "Section 4: THF metrics and makespan error comparisons (Figures 5 and 6)."
+    }
+  ],
+  "tools_and_methods": [
+    {
+      "tool-method": "WfCommons framework",
+      "evidence": "Abstract and Section 3: overall framework description."
+    },
+    {
+      "tool-method": "WfInstances, WfChef, WfGen, WfSim components",
+      "evidence": "Section 3 and Figure 2: conceptual architecture."
+    },
+    {
+      "tool-method": "JSON-based WfFormat",
+      "evidence": "Section 3.1: system-agnostic workflow instance representation."
+    },
+    {
+      "tool-method": "Python package with SciPy statistical fitting",
+      "evidence": "Section 3.5: fitting 23 probability distributions using SciPy."
+    },
+    {
+      "tool-method": "WRENCH-based workflow simulators",
+      "evidence": "Sections 3.4 and 4.3: simulation using Pegasus and Makeflow simulators."
+    }
+  ],
+  "challenges_and_limitations": [
+    {
+      "challenge": "Lack of common, system-agnostic workflow formats in prior work",
+      "evidence": "Introduction and Section 1: shortcomings (i)–(iii) of previous tools."
+    },
+    {
+      "challenge": "Difficulty in generating realistic synthetic workflows at scale",
+      "evidence": "Introduction and Section 3: need for automated, accurate workflow generators."
+    },
+    {
+      "challenge": "Limitations of prior generators in capturing real workflow patterns",
+      "evidence": "Sections 4.2 and 4.3: comparison showing WorkflowGenerator and WorkflowHub inaccuracies."
+    },
+    {
+      "challenge": "Remaining discrepancies due to random sampling effects",
+      "evidence": "Section 4.3: discussion of residual makespan differences."
+    }
+  ],
+  "summary": "The paper presents WfCommons, a comprehensive framework supporting simulation-driven scientific workflow research through the collection, analysis, generation, and simulation of workflow instances. It defines clear workflow stages, inputs, outputs, and tools, supported by architectural and process diagrams. Extensive experimental comparisons demonstrate that WfCommons produces more realistic synthetic workflows than prior approaches."
+}
