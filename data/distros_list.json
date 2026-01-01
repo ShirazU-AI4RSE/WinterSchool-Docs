@@ -1,0 +1,3887 @@
+[
+  {
+    "name": "Edubuntu",
+    "url": "https://en.wikipedia.org/wiki/Edubuntu",
+    "section": "Official derivatives",
+    "short_description": "A complete Linux based operating system targeted for primary and secondary education . Versions are freely available with community-based support. The Edubuntu community is built on the ideas enshrined in the Edubuntu Manifesto: that software, especially for education, should be available free of charge and that software tools should be usable by people in their local language and despite any disabilities. [ 6 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 0,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Gobuntu",
+    "url": "https://en.wikipedia.org/wiki/Gobuntu",
+    "section": "Official derivatives",
+    "short_description": "Gobuntu was an official derivative of the Ubuntu operating system, aiming to provide a distribution consisting entirely of free software . It was officially announced by Mark Shuttleworth on July 10, 2007, and daily builds of Gobuntu 7.10 began to be publicly released. The project ended around the release of 8.04 and has since merged into mainline Ubuntu as a 'free software' option. [ 7 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 0,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Kubuntu",
+    "url": "https://en.wikipedia.org/wiki/Kubuntu",
+    "section": "Official derivatives",
+    "short_description": "An official derivative of Ubuntu Linux using KDE instead of the GNOME (or Unity) desktop environment used by default in Ubuntu. [ 8 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 0,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Lubuntu",
+    "url": "https://en.wikipedia.org/wiki/Lubuntu",
+    "section": "Official derivatives",
+    "short_description": "An official derivative of the Ubuntu operating system that is \"lighter, less resource hungry and more energy-efficient\", using the LXQt desktop environment (used LXDE before 18.10). [ 9 ] [ 10 ] [ 11 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 0,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Mythbuntu",
+    "url": "https://en.wikipedia.org/wiki/Mythbuntu",
+    "section": "Official derivatives",
+    "short_description": "Based on Ubuntu and MythTV , providing applications for recording TV and acting as a media center. [ 12 ] On 4 November 2016 the development team announced the end of Mythbuntu as a separate distribution, citing insufficient developers.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 0,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Ubuntu Budgie",
+    "url": "https://en.wikipedia.org/wiki/Ubuntu_Budgie",
+    "section": "Official derivatives",
+    "short_description": "An official derivative of Ubuntu using Budgie .",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 0,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Ubuntu Cinnamon",
+    "url": "https://en.wikipedia.org/wiki/Ubuntu_Cinnamon",
+    "section": "Official derivatives",
+    "short_description": "An official derivative of Ubuntu using the Cinnamon desktop environment. [ 13 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 0,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Ubuntu GNOME",
+    "url": "https://en.wikipedia.org/wiki/Ubuntu_GNOME",
+    "section": "Official derivatives",
+    "short_description": "Formerly an official Ubuntu variant, [ 14 ] but since the main Ubuntu 17.10, which uses GNOME Shell as its default desktop and GDM as its display manager, this distro has been merged into mainline releases. [ 15 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 0,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Ubuntu JeOS",
+    "url": "https://en.wikipedia.org/wiki/Ubuntu_JeOS",
+    "section": "Official derivatives",
+    "short_description": "\"Just Enough OS\" – was described as \"an efficient variant [...] configured specifically for virtual appliances \". [ 16 ] Since the release of Ubuntu 8.10 it has been included as an option as part of the standard Ubuntu Server Edition.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 0,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Ubuntu Kylin",
+    "url": "https://en.wikipedia.org/wiki/Ubuntu_Kylin",
+    "section": "Official derivatives",
+    "short_description": "An official derivative aimed at the Chinese market.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 0,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Ubuntu MATE",
+    "url": "https://en.wikipedia.org/wiki/Ubuntu_MATE",
+    "section": "Official derivatives",
+    "short_description": "An official derivative of Ubuntu using MATE , a desktop environment forked from the now-defunct GNOME 2 code base, with an emphasis on the desktop metaphor . [ 17 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 0,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Ubuntu Mobile",
+    "url": "https://en.wikipedia.org/wiki/Ubuntu_Mobile",
+    "section": "Official derivatives",
+    "short_description": "A discontinued embedded operating system designed for use on mobile devices . The operating system will use Hildon from maemo as its graphical frontend . Ubuntu Touch is a successor to Ubuntu Mobile.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 0,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Ubuntu Netbook Edition",
+    "url": "https://en.wikipedia.org/wiki/Ubuntu_Netbook_Edition",
+    "section": "Official derivatives",
+    "short_description": "Netbook Edition was an official derivative of Ubuntu designed for netbooks using the Intel Atom processor. Starting from Ubuntu 11.04 , Ubuntu Netbook Edition has been merged into the desktop edition. [ 18 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 0,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Ubuntu Server",
+    "url": "https://en.wikipedia.org/wiki/Ubuntu_Server",
+    "section": "Official derivatives",
+    "short_description": "An official derivative made for use in servers & IBM mainframes . Ubuntu Server handles mail, controls printers, acts as a fileserver, can host LAMP and more. [ 19 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 0,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Ubuntu Studio",
+    "url": "https://en.wikipedia.org/wiki/Ubuntu_Studio",
+    "section": "Official derivatives",
+    "short_description": "Based on Ubuntu, providing open-source applications for multimedia creation aimed at the audio, video and graphic editors. [ 20 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 0,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Ubuntu TV",
+    "url": "https://en.wikipedia.org/wiki/Ubuntu_TV",
+    "section": "Official derivatives",
+    "short_description": "A discontinued distribution designed for use in smart TVs . [ 21 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 0,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Ubuntu Unity",
+    "url": "https://en.wikipedia.org/wiki/Ubuntu_Unity",
+    "section": "Official derivatives",
+    "short_description": "An official derivative of Ubuntu using the Unity desktop environment. [ 22 ] [ 23 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 0,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Xubuntu",
+    "url": "https://en.wikipedia.org/wiki/Xubuntu",
+    "section": "Official derivatives",
+    "short_description": "An official derivative of Ubuntu using Xfce . Xubuntu is intended for use on less-powerful computers or those who seek a highly efficient desktop environment on faster systems, and uses mostly GTK applications. [ 24 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 0,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "BackBox",
+    "url": "https://en.wikipedia.org/wiki/BackBox",
+    "section": "Unofficial derivatives",
+    "short_description": "BackBox is a Linux distribution based on Ubuntu. It has been developed to perform penetration tests and security assessments. Designed to be fast, easy to use and provide a minimal yet complete desktop environment, thanks to its own software repositories, always being updated to the latest stable version of the most used and best known ethical hacking tools. [ 25 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Bodhi Linux",
+    "url": "https://en.wikipedia.org/wiki/Bodhi_Linux",
+    "section": "Unofficial derivatives",
+    "short_description": "An Ubuntu-based Linux distribution featuring the Moksha Desktop environment and targeting users who want a minimum of preinstalled software or low system requirements. [ 26 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Cub Linux",
+    "url": "https://en.wikipedia.org/wiki/Cub_Linux",
+    "section": "Unofficial derivatives",
+    "short_description": "Ubuntu-based distribution designed to mimic the desktop appearance and functionality of ChromeOS. [ 27 ] [ 28 ] [ 29 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "EasyPeasy",
+    "url": "https://en.wikipedia.org/wiki/EasyPeasy",
+    "section": "Unofficial derivatives",
+    "short_description": "Fork of Ubuntu designed for netbooks [ 31 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Eeebuntu",
+    "url": "https://en.wikipedia.org/wiki/Eeebuntu_OS",
+    "section": "Unofficial derivatives",
+    "short_description": "Specifically for the Eee PC range of netbooks, based on Debian. Also rebranded as Aurora OS. [ 32 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Element OS",
+    "url": "https://en.wikipedia.org/wiki/Element_OS",
+    "section": "Unofficial derivatives",
+    "short_description": "Based on Xubuntu , made for Home theater PCs [ 33 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "elementary OS",
+    "url": "https://en.wikipedia.org/wiki/Elementary_(operating_system)",
+    "section": "Unofficial derivatives",
+    "short_description": "A distribution focusing mainly on non-technical users, has a pay what you want model. [ 34 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Emmabuntüs",
+    "url": "https://en.wikipedia.org/wiki/Emmabunt%C3%BCs",
+    "section": "Unofficial derivatives",
+    "short_description": "Based on Xubuntu designed to facilitate the repacking of computers donated to Emmaüs Communities. [ 35 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "GalliumOS",
+    "url": "https://en.wikipedia.org/wiki/GalliumOS",
+    "section": "Unofficial derivatives",
+    "short_description": "A Linux distribution for ChromeOS devices by the community-supported GalliumOS project. Gallium is based on Xubuntu and maintains compatibility with the Ubuntu repositories. [ 36 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "GendBuntu",
+    "url": "https://en.wikipedia.org/wiki/GendBuntu",
+    "section": "Unofficial derivatives",
+    "short_description": "A version adapted for use by France 's National Gendarmerie .",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Goobuntu",
+    "url": "https://en.wikipedia.org/wiki/Goobuntu",
+    "section": "Unofficial derivatives",
+    "short_description": "An Ubuntu-based distribution that was used internally by Google (until changing to non-Ubuntu, Debian-based GLinux ); not available outside of Google",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "gOS",
+    "url": "https://en.wikipedia.org/wiki/GOS_(operating_system)",
+    "section": "Unofficial derivatives",
+    "short_description": "Used the GNOME desktop environment with user interface enhancements to make it work more like Mac OS X , it also featured Google Apps , Picasa , Google Gadgets and other web-based applications, and came with Wine 1.0 pre-installed. Now discontinued.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Joli OS",
+    "url": "https://en.wikipedia.org/wiki/Joli_OS",
+    "section": "Unofficial derivatives",
+    "short_description": "Joli OS (formerly named Jolicloud) is in development and Pre-beta testing. Joli OS is built upon Debian and Ubuntu 9.10, but is tweaked to be more suitable for computers that have weaker specifications in terms of disk storage, memory and screen size. It is designed to run on relatively low-powered netbook computers. [ 37 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Karoshi",
+    "url": "https://en.wikipedia.org/wiki/Karoshi_(operating_system)",
+    "section": "Unofficial derivatives",
+    "short_description": "A formerly PCLinuxOS -based distribution designed for use in schools. [ 38 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "KDE neon",
+    "url": "https://en.wikipedia.org/wiki/KDE_neon",
+    "section": "Unofficial derivatives",
+    "short_description": "Focused on the development of KDE. The emphasis is on bleeding edge software packages sourced directly from KDE and offers programmers early access to new features , but potentially at the cost of greater susceptibility to software bugs . [ 39 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "LiMux",
+    "url": "https://en.wikipedia.org/wiki/LiMux",
+    "section": "Unofficial derivatives",
+    "short_description": "A project by the city council of Munich , Germany",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Linux Caixa Mágica",
+    "url": "https://en.wikipedia.org/wiki/Linux_Caixa_M%C3%A1gica",
+    "section": "Unofficial derivatives",
+    "short_description": "Portuguese Linux distribution. [ 40 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Linux Lite",
+    "url": "https://en.wikipedia.org/wiki/Linux_Lite",
+    "section": "Unofficial derivatives",
+    "short_description": "The purpose of Linux Lite is to introduce Windows users to Linux , and provide them with a comfortable and useful user experience. It is designed to be simple and suitable for new Linux users who want a lightweight, highly responsive, and fully functional environment. [ 41 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Linux Mint",
+    "url": "https://en.wikipedia.org/wiki/Linux_Mint",
+    "section": "Unofficial derivatives",
+    "short_description": "Linux Mint synchronizes its release-cycle with Ubuntu's long-term support, and is tailored to user-friendliness for desktop users. [ 42 ] Linux Mint Debian Edition (LMDE) is Mint's Debian stable based version. Its purpose is to use Debian base packages/kernel under the hood should Ubuntu ever disappear. It's also used by Mint developers to develop their Cinnamon desktop.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "LinuxMCE",
+    "url": "https://en.wikipedia.org/wiki/LinuxMCE",
+    "section": "Unofficial derivatives",
+    "short_description": "Linux Media Center Edition , a Kubuntu-based distribution that provides in-depth HTPC functionality as well as home automation. [ 43 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "LinuxTLE",
+    "url": "https://en.wikipedia.org/wiki/LinuxTLE",
+    "section": "Unofficial derivatives",
+    "short_description": "A Thai Linux distribution. Not maintained. [ 44 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "LliureX",
+    "url": "https://en.wikipedia.org/wiki/LliureX",
+    "section": "Unofficial derivatives",
+    "short_description": "A distribution by the Generalitat Valenciana [ 45 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "LXLE Linux",
+    "url": "https://en.wikipedia.org/wiki/LXLE_Linux",
+    "section": "Unofficial derivatives",
+    "short_description": "A light-weight Linux distribution based on Lubuntu, using the LXDE desktop environment. [ 46 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "MAX",
+    "url": "https://en.wikipedia.org/wiki/MAX_(operating_system)",
+    "section": "Unofficial derivatives",
+    "short_description": "Stands for MAdrid LinuX. Used in education. [ 47 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Maya OS",
+    "url": "https://en.wikipedia.org/wiki/Maya_(operating_system)",
+    "section": "Unofficial derivatives",
+    "short_description": "A distribution developed by Indian Ministry of Defence . [ 48 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Molinux",
+    "url": "https://en.wikipedia.org/wiki/Molinux",
+    "section": "Unofficial derivatives",
+    "short_description": "Ubuntu based initiative to introduce the Castile-La Mancha community in Spain to the information society. [ 49 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Netrunner",
+    "url": "https://en.wikipedia.org/wiki/Netrunner_(operating_system)",
+    "section": "Unofficial derivatives",
+    "short_description": "Kubuntu based distribution with complete software and codecs installed, developed by Blue Systems (also sponsoring Kubuntu and LinuxMintKDE). [ 50 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Nova",
+    "url": "https://en.wikipedia.org/wiki/Nova_(operating_system)",
+    "section": "Unofficial derivatives",
+    "short_description": "Cuban state-sponsored distribution developed at the University of Information Science , Havana . Formerly based on Gentoo.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "OpenGEU",
+    "url": "https://en.wikipedia.org/wiki/OpenGEU",
+    "section": "Unofficial derivatives",
+    "short_description": "Ubuntu based distribution with Enlightenment window manager, previously known as Geubuntu. [ 51 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Pinguy OS",
+    "url": "https://en.wikipedia.org/wiki/Pinguy_OS",
+    "section": "Unofficial derivatives",
+    "short_description": "An Ubuntu-based distro for people that have never used Linux before or for people that want an out-of-the-box working OS without having to tweak a fresh installation of Ubuntu or other Ubuntu-based distro. [ 52 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Pop!_OS",
+    "url": "https://en.wikipedia.org/wiki/Pop!_OS",
+    "section": "Unofficial derivatives",
+    "short_description": "An Ubuntu-based distro developed by System76 predominantly for use on hardware that they manufacture.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Poseidon Linux",
+    "url": "https://en.wikipedia.org/wiki/Poseidon_Linux",
+    "section": "Unofficial derivatives",
+    "short_description": "For academic and scientific use. Based on Ubuntu, but enhanced by GIS/maps, numerical modelling, 2D/3D/4D visualization, statistics, tools for creating simple and complex graphics, programming languages.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Sabily",
+    "url": "https://en.wikipedia.org/wiki/Sabily",
+    "section": "Unofficial derivatives",
+    "short_description": "Ubuntu based distribution for Muslims (formerly Ubuntu Muslim Edition) [ 53 ] Unmaintained",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "SuperGamer",
+    "url": "https://en.wikipedia.org/wiki/SuperGamer",
+    "section": "Unofficial derivatives",
+    "short_description": "A Live DVD distribution focused on gaming formerly based on VectorLinux .",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Trisquel GNU/Linux",
+    "url": "https://en.wikipedia.org/wiki/Trisquel_GNU/Linux",
+    "section": "Unofficial derivatives",
+    "short_description": "Fully free-software system without proprietary software or firmware and uses the Linux-libre kernel deblob script, based on Ubuntu LTS Releases [ 54 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "UberStudent",
+    "url": "https://en.wikipedia.org/wiki/UberStudent",
+    "section": "Unofficial derivatives",
+    "short_description": "For higher education and advanced secondary students, those who teach them, and lifelong learners [ 55 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Uncom OS",
+    "url": "https://en.wikipedia.org/wiki/Uncom_OS",
+    "section": "Unofficial derivatives",
+    "short_description": "An open-source Linux distribution based on Ubuntu , Debian, and Arch Linux. [ 56 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Ututo",
+    "url": "https://en.wikipedia.org/wiki/Ututo",
+    "section": "Unofficial derivatives",
+    "short_description": "Ututo UL (\"Ubuntu-Libre\") Distributes Simusol, a system to simulate Solar Energy projects, returned to the heart of the project. Discontinued. [ 57 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Vinux",
+    "url": "https://en.wikipedia.org/wiki/Vinux",
+    "section": "Unofficial derivatives",
+    "short_description": "A Linux distribution designed for visually impaired users [ 58 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Winux",
+    "url": "https://en.wikipedia.org/wiki/Winux",
+    "section": "Unofficial derivatives",
+    "short_description": "Formerly Wubuntu. The distribution aims to imitate Microsoft operating system Windows 11 . [ 59 ] [ 60 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Zorin OS",
+    "url": "https://en.wikipedia.org/wiki/Zorin_OS",
+    "section": "Unofficial derivatives",
+    "short_description": "Zorin OS is a user-friendly distribution that can emulate the look and feel of Microsoft Windows or macOS . It is meant for users unfamiliar with Linux. [ 61 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 1,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Damn Small Linux",
+    "url": "https://en.wikipedia.org/wiki/Damn_Small_Linux",
+    "section": "Knoppix-based",
+    "short_description": "A small Linux distro designed to run on older hardware. It is commonly used on virtual machines due to low memory requirements. [ 63 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 2,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Feather Linux",
+    "url": "https://en.wikipedia.org/wiki/Feather_Linux",
+    "section": "Knoppix-based",
+    "short_description": "Boots from either a CD or a USB flash drive . Uses Knoppix -based hardware detection and the Fluxbox window manager. [ 64 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 2,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "antiX",
+    "url": "https://en.wikipedia.org/wiki/AntiX",
+    "section": "Other Debian-based",
+    "short_description": "A lightweight distro well suited for older PCs including a 'Legacy' 5.10 and 'Modern' 6.1 kernels for better hardware support. Large app choice from both Debian and antiX repositories. systemd and elogind free.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Astra Linux",
+    "url": "https://en.wikipedia.org/wiki/Astra_Linux",
+    "section": "Other Debian-based",
+    "short_description": "A Russian distribution developed to meet the needs of the Russian army and other armed forces and intelligence agencies. [ 65 ] It provides data protection up to the level of \"top secret\" in Russian classified information grade. It has been officially certified by Russian Defense Ministry, Federal Service for Technical and Export Control [ 66 ] and Federal Security Service. [ 67 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Bharat Operating System Solutions",
+    "url": "https://en.wikipedia.org/wiki/Bharat_Operating_System_Solutions",
+    "section": "Other Debian-based",
+    "short_description": "An Indian Linux distribution [ 68 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Canaima",
+    "url": "https://en.wikipedia.org/wiki/Canaima_(operating_system)",
+    "section": "Other Debian-based",
+    "short_description": "A Venezuelan Linux distribution. [ 69 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Corel Linux",
+    "url": "https://en.wikipedia.org/wiki/Corel_Linux",
+    "section": "Other Debian-based",
+    "short_description": "Short-lived commercial desktop Linux distribution, bought by Xandros Linux. [ 70 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "CrunchBang Linux",
+    "url": "https://en.wikipedia.org/wiki/CrunchBang_Linux",
+    "section": "Other Debian-based",
+    "short_description": "A small distribution and Live CD based on Debian Stable, featuring the Openbox window manager and tint2 panel with GTK+ applications. [ 71 ] Development has ended for CrunchBang as of February, 2015. [ 72 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Deepin",
+    "url": "https://en.wikipedia.org/wiki/Deepin",
+    "section": "Other Debian-based",
+    "short_description": "A Chinese Linux Distribution developed by Wuhan Deepin Technology Co.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Devuan",
+    "url": "https://en.wikipedia.org/wiki/Devuan",
+    "section": "Other Debian-based",
+    "short_description": "A fork of Debian begun in 2014 with the primary goal of allowing user choice in init systems, by decoupling software packages from systemd . [ 73 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "DoudouLinux",
+    "url": "https://en.wikipedia.org/wiki/DoudouLinux",
+    "section": "Other Debian-based",
+    "short_description": "A discontinued distribution intended for children. [ 74 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Dreamlinux",
+    "url": "https://en.wikipedia.org/wiki/Dreamlinux",
+    "section": "Other Debian-based",
+    "short_description": "A discontinued Brazilian distribution.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Elive",
+    "url": "https://en.wikipedia.org/wiki/Elive",
+    "section": "Other Debian-based",
+    "short_description": "A light-weight Linux distribution featuring the Enlightenment desktop, designed to be simple and suitable for new Linux users who want a fully functional environment.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Emdebian Grip",
+    "url": "https://en.wikipedia.org/wiki/Emdebian_Grip",
+    "section": "Other Debian-based",
+    "short_description": "A small-footprint distribution based on and compatible with Debian, intended for use on resource-limited embedded systems. [ 75 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Finnix",
+    "url": "https://en.wikipedia.org/wiki/Finnix",
+    "section": "Other Debian-based",
+    "short_description": "A small system-administration Live CD that is available for multiple architectures [ 76 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "gLinux",
+    "url": "https://en.wikipedia.org/wiki/GLinux",
+    "section": "Other Debian-based",
+    "short_description": "gLinux is a Linux Distro used for Google Employees.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "gNewSense",
+    "url": "https://en.wikipedia.org/wiki/GNewSense",
+    "section": "Other Debian-based",
+    "short_description": "Originally based on Ubuntu and later upon Debian , and developed with sponsorship from the Free Software Foundation . Its goal is user-friendliness, but with all proprietary (e.g. binary blobs ) and non-free software removed.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "grml",
+    "url": "https://en.wikipedia.org/wiki/Grml",
+    "section": "Other Debian-based",
+    "short_description": "Live CD for system recovery [ 77 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "HandyLinux",
+    "url": "https://en.wikipedia.org/wiki/HandyLinux",
+    "section": "Other Debian-based",
+    "short_description": "Designed for senior citizens running old computers for which Windows have become too slow [ 78 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Kali Linux",
+    "url": "https://en.wikipedia.org/wiki/Kali_Linux",
+    "section": "Other Debian-based",
+    "short_description": "A completely customizable distribution used for penetration testing. Kali is based on Debian and is used mostly by security experts. [ 79 ] Originally named BackTrack (named after the homonym class of backtracking algorithms), it is developed by Offensive Security . [ 80 ] In March 2013, the Offensive Security team rebuilt BackTrack on Debian and released it under the name Kali Linux. [ 81 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Kali NetHunter",
+    "url": "https://en.wikipedia.org/wiki/Kali_NetHunter",
+    "section": "Other Debian-based",
+    "short_description": "Mobile version of Kali Linux available for rooted and non-rooted devices.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Kanotix",
+    "url": "https://en.wikipedia.org/wiki/Kanotix",
+    "section": "Other Debian-based",
+    "short_description": "An installable live DVD/CD for desktop usage using KDE and LXDE, focusing on convenient scripts and GUIs for ease of use. [ 82 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "LEAF Project",
+    "url": "https://en.wikipedia.org/wiki/LEAF_Project",
+    "section": "Other Debian-based",
+    "short_description": "The Linux Embedded Appliance Framework. A tiny primarily floppy-based distribution for routers, firewalls and other appliances. [ 83 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Libranet",
+    "url": "https://en.wikipedia.org/wiki/Libranet",
+    "section": "Other Debian-based",
+    "short_description": "A discontinued operating system based on Debian.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "LMDE",
+    "url": "https://en.wikipedia.org/wiki/Linux_Mint_Debian_Edition",
+    "section": "Other Debian-based",
+    "short_description": "A Debian-based version of Linux Mint that does not use any elements of Ubuntu , maintained to ensure continuity should Ubuntu stop being maintained or other issue affecting the core Mint distribution. [ 85 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Maemo",
+    "url": "https://en.wikipedia.org/wiki/Maemo",
+    "section": "Other Debian-based",
+    "short_description": "A development platform for hand held devices such as the Nokia N800 , N810 , and Nokia N900 Internet Tablets and other Linux kernel–based devices. [ 86 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "MEPIS",
+    "url": "https://en.wikipedia.org/wiki/MEPIS",
+    "section": "Other Debian-based",
+    "short_description": "A discontinued OS that focused on ease of use. Significant derivatives include antiX and MX Linux .",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "MintPPC",
+    "url": "https://en.wikipedia.org/wiki/MintPPC",
+    "section": "Other Debian-based",
+    "short_description": "For PowerPC computers. Although MintPPC uses some Linux Mint Debian Edition code, it is not Linux Mint. [ 87 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Musix GNU+Linux",
+    "url": "https://en.wikipedia.org/wiki/Musix_GNU%2BLinux",
+    "section": "Other Debian-based",
+    "short_description": "Intended for music production, graphic design, audio, video editing, and other tasks. It is built with only free software . [ 88 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "MX Linux",
+    "url": "https://en.wikipedia.org/wiki/MX_Linux",
+    "section": "Other Debian-based",
+    "short_description": "A midweight OS based on Debian Stable with core components from antiX and using Xfce , offering simple configuration, high stability, solid performance and medium-sized footprint. [ 89 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "NepaLinux",
+    "url": "https://en.wikipedia.org/wiki/NepaLinux",
+    "section": "Other Debian-based",
+    "short_description": "A Debian- and Morphix-based distribution focused for desktop usage in Nepali language computing. [ 90 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "OpenZaurus",
+    "url": "https://en.wikipedia.org/wiki/OpenZaurus",
+    "section": "Other Debian-based",
+    "short_description": "Debian packages and ROM image for the Sharp Zaurus PDA . Replaced by Ångström distribution . [ 91 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Pardus",
+    "url": "https://en.wikipedia.org/wiki/Pardus_(operating_system)",
+    "section": "Other Debian-based",
+    "short_description": "Developed by Turkish National Research Institute of Electronics and Cryptology . Prior to 2013 it used PISI as the package manager, with COMAR as the configuration framework. Starting with Pardus 2013, it is Debian-based.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Parrot OS",
+    "url": "https://en.wikipedia.org/wiki/Parrot_OS",
+    "section": "Other Debian-based",
+    "short_description": "A Linux distribution based on Debian used by penetration testers.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Parsix",
+    "url": "https://en.wikipedia.org/wiki/Parsix",
+    "section": "Other Debian-based",
+    "short_description": "Optimized for personal computers and laptops. Built on top of Debian testing branch and comes with security support. [ 93 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "PelicanHPC",
+    "url": "https://en.wikipedia.org/wiki/PelicanHPC",
+    "section": "Other Debian-based",
+    "short_description": "Dedicated to setting up a computer cluster . [ 94 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Peppermint OS",
+    "url": "https://en.wikipedia.org/wiki/Peppermint_OS",
+    "section": "Other Debian-based",
+    "short_description": "A Linux distribution based on Debian and Devuan Stable, and formerly based on Ubuntu. It uses the Xfce desktop environment . [ 95 ] [ 96 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "PureOS",
+    "url": "https://en.wikipedia.org/wiki/PureOS",
+    "section": "Other Debian-based",
+    "short_description": "A Linux distribution based on Debian with a focus on privacy, security, and convenience. [ 97 ] [ 98 ] [ 99 ] [ 100 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Q4OS",
+    "url": "https://en.wikipedia.org/wiki/Q4OS",
+    "section": "Other Debian-based",
+    "short_description": "A light-weight Linux distribution with Trinity and Plasma desktop environments. [ 101 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Raspberry Pi OS",
+    "url": "https://en.wikipedia.org/wiki/Raspberry_Pi_OS",
+    "section": "Other Debian-based",
+    "short_description": "Desktop-oriented distribution, formerly known as Raspbian. Developed by the Raspberry Pi Foundation as the official OS for their family of low-power Raspberry Pi single-board computers.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "SolydXK",
+    "url": "https://en.wikipedia.org/wiki/SolydXK",
+    "section": "Other Debian-based",
+    "short_description": "Xfce and KDE desktop focused on stability, security and ease of use. [ 102 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "SparkyLinux",
+    "url": "https://en.wikipedia.org/wiki/SparkyLinux",
+    "section": "Other Debian-based",
+    "short_description": "A Debian-based Linux distribution which provides ready to use, out of the box operating system with a set of slightly customized lightweight desktops. Sparky is targeted to all the computer's users who want replace existing, proprietary driven OS to an open-sourced..",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Sunwah Linux",
+    "url": "https://en.wikipedia.org/wiki/Sunwah_Linux",
+    "section": "Other Debian-based",
+    "short_description": "A Chinese Linux distribution [ 103 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Tails",
+    "url": "https://en.wikipedia.org/wiki/Tails_(operating_system)",
+    "section": "Other Debian-based",
+    "short_description": "Tails or The Amnesic Incognito Live System' is aimed at preserving privacy and anonymity, with all outgoing connections forced to go through Tor . [ 104 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "TurnKey Linux",
+    "url": "https://en.wikipedia.org/wiki/TurnKey_Linux_Virtual_Appliance_Library",
+    "section": "Other Debian-based",
+    "short_description": "Open source project developing a family of free, Debian-based appliances optimized for ease of use in server-type usage scenarios. [ 105 ] Based on Debian since 2012; previously based on Ubuntu.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "TrueNAS",
+    "url": "https://en.wikipedia.org/wiki/TrueNAS",
+    "section": "Other Debian-based",
+    "short_description": "Designed for network-attached storage (NAS) and derived from the FreeBSD -based FreeNAS (later known as TrueNAS Core or TrueNAS Legacy).",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Twister OS",
+    "url": "https://en.wikipedia.org/wiki/Twister_OS",
+    "section": "Other Debian-based",
+    "short_description": "Raspberry Pi OS based distribution using Xfce with themes based on other OSes intended for the Raspberry Pi , RK3399 CPU, and x86-64 architecture.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Univention Corporate Server",
+    "url": "https://en.wikipedia.org/wiki/Univention_Corporate_Server",
+    "section": "Other Debian-based",
+    "short_description": "Enterprise distribution with integrated IT infrastructure and identity management system by the company Univention GmbH, Germany. A full version for up to 5 users for tests and for private use can be downloaded for free. [ 106 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Uruk GNU/Linux",
+    "url": "https://en.wikipedia.org/wiki/Uruk_GNU/Linux",
+    "section": "Other Debian-based",
+    "short_description": "Uruk GNU/Linux is a PureOS -based Linux distribution utilizing the Linux-libre kernel.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Webconverger",
+    "url": "https://en.wikipedia.org/wiki/Webconverger",
+    "section": "Other Debian-based",
+    "short_description": "Debian Live -based browser only distribution, similar to ChromeOS. However based on Firefox and dwm , with no user sign-in, no special hardware required and designed for public places. [ 107 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Whonix",
+    "url": "https://en.wikipedia.org/wiki/Whonix",
+    "section": "Other Debian-based",
+    "short_description": "An anonymity focused Linux distribution consisting of two virtual machines, a workstation and a Tor gateway running Debian.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Vyatta",
+    "url": "https://en.wikipedia.org/wiki/Vyatta",
+    "section": "Other Debian-based",
+    "short_description": "Commercial open source network operating system includes routing, firewall, VPN, intrusion prevention and more. Designed to be an open source Cisco replacement. [ 108 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "VyOS",
+    "url": "https://en.wikipedia.org/wiki/VyOS",
+    "section": "Other Debian-based",
+    "short_description": "Free routing platform. Because VyOS is run on standard amd64, i586 and ARM systems, it is able to be used as a router and firewall platform for cloud deployments.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 3,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Antergos",
+    "url": "https://en.wikipedia.org/wiki/Antergos",
+    "section": "Arch Linux-based",
+    "short_description": "Antergos is a discontinued Linux distribution based on Arch Linux.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 4,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Arch Linux ARM",
+    "url": "https://en.wikipedia.org/wiki/Arch_Linux_ARM",
+    "section": "Arch Linux-based",
+    "short_description": "Port of Arch Linux for ARM processors.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 4,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "ArchBang",
+    "url": "https://en.wikipedia.org/wiki/ArchBang",
+    "section": "Arch Linux-based",
+    "short_description": "Based on Arch Linux, but also provides Live CDs with working system and graphical installation scripts; uses i3 as default window manager.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 4,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Artix Linux",
+    "url": "https://en.wikipedia.org/wiki/Artix_Linux",
+    "section": "Arch Linux-based",
+    "short_description": "Based on Arch Linux, but using Dinit , OpenRC , Runit , or s6 as init system instead of systemd .",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 4,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "ArchLabs",
+    "url": "https://en.wikipedia.org/wiki/ArchLabs",
+    "section": "Arch Linux-based",
+    "short_description": "ArchLabs is a discontinued Linux distribution based on Arch Linux, with a custom installer, offers many choices of desktop environments and window managers.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 4,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "BlackArch",
+    "url": "https://en.wikipedia.org/wiki/BlackArch",
+    "section": "Arch Linux-based",
+    "short_description": "A cybersecurity-focused OS based on Arch Linux. It is designed to test security and run penetration tests. It includes window managers preconfigured, but no desktop environment.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 4,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "EndeavourOS",
+    "url": "https://en.wikipedia.org/wiki/EndeavourOS",
+    "section": "Arch Linux-based",
+    "short_description": "Continuation of Antergos , featuring a graphical installer capable of installing KDE Plasma (default, offline), Budgie , Cinnamon , Deepin , GNOME , i3 , Xfce , LXQt , and MATE .",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 4,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Garuda Linux",
+    "url": "https://en.wikipedia.org/wiki/Garuda_Linux",
+    "section": "Arch Linux-based",
+    "short_description": "A distribution based on gaming. [ 109 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 4,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "LinHES",
+    "url": "https://en.wikipedia.org/wiki/LinHES",
+    "section": "Arch Linux-based",
+    "short_description": "LinHES (Linux Home Entertainment Server) designed for use on home theater PCs (HTPCs), providing applications for recording TV and acting as a sound and video center.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 4,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Manjaro",
+    "url": "https://en.wikipedia.org/wiki/Manjaro",
+    "section": "Arch Linux-based",
+    "short_description": "Based on Arch Linux, using its own repositories and ships with either Xfce , Plasma , GNOME , or the CLI as the default desktop environment. Additional community-driven editions are available that use MATE , Cinnamon , Openbox , Awesome , i3 , BSPWM, or Budgie as a base.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 4,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Parabola GNU/Linux-libre",
+    "url": "https://en.wikipedia.org/wiki/Parabola_GNU/Linux-libre",
+    "section": "Arch Linux-based",
+    "short_description": "An Arch derivative without any blobs , plus various added packages. Packages are also built for ARMv7 in addition to i686 and x64. MATE and text-mode distributions available.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 4,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "SteamOS",
+    "url": "https://en.wikipedia.org/wiki/SteamOS",
+    "section": "Arch Linux-based",
+    "short_description": "Arch-based and gaming-focused distribution developed by Valve and designed for the Steam digital distribution platform and Steam Deck . Before version 3.0, was previously based on Debian.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 4,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "SystemRescue",
+    "url": "https://en.wikipedia.org/wiki/SystemRescueCD",
+    "section": "Arch Linux-based",
+    "short_description": "Linux System rescue toolkit. Previously based on Gentoo, it has been based on Arch Linux since version 6.0.0",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 4,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Chakra Linux",
+    "url": "https://en.wikipedia.org/wiki/Chakra_Linux",
+    "section": "Other Pacman-based",
+    "short_description": "Originally derived from Arch Linux, with the latest KDE . For now uses the Pacman utility for package management. Strives to be Qt-only. Discontinued. [ 110 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 5,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Frugalware Linux",
+    "url": "https://en.wikipedia.org/wiki/Frugalware_Linux",
+    "section": "Other Pacman-based",
+    "short_description": "A general-purpose Linux distribution designed for intermediate users. Has some influences from Slackware, and uses a heavily modified version of Pacman, Pacman-G2, a fork of a CVS version of the complete rewrite of Pacman-G1 by Aurelien Foret (the old monolithic Pacman-G1 is written by Judd Vinet ). The packages are tar archives compressed using XZ Utils . [ 111 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 5,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Hyperbola GNU/Linux-libre",
+    "url": "https://en.wikipedia.org/wiki/Hyperbola_GNU/Linux-libre",
+    "section": "Other Pacman-based",
+    "short_description": "Originally a free software derivate from Arch with usage of Debian patchsets, Hyperbola is now an independent Linux distribution without any blobs , without systemd support and with OpenRC as its default init system. Packages are built for i686 and x64. Hyperbola uses the long-term support model like Debian and is heading towards being a fully BSD-descendant operating-system named HyperbolaBSD.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 5,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "KaOS",
+    "url": "https://en.wikipedia.org/wiki/KaOS",
+    "section": "Other Pacman-based",
+    "short_description": "An independent 64-bit only rolling-release Linux distribution inspired by Arch that features the latest KDE Plasma environment and the Qt toolkit. [ 112 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 5,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "AlmaLinux",
+    "url": "https://en.wikipedia.org/wiki/AlmaLinux",
+    "section": "RHEL-based",
+    "short_description": "A 100% community owned and governed alternative CentOS as a Red Hat Enterprise Linux rebuild. Governed by the AlmaLinux OS Foundation.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 6,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Asianux",
+    "url": "https://en.wikipedia.org/wiki/Asianux",
+    "section": "RHEL-based",
+    "short_description": "A Linux distribution co-developed between Red Flag Software Co., Ltd., Miracle Linux Corp. and Haansoft , INC., focused on Chinese, Japanese and Korean support.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 6,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "CentOS",
+    "url": "https://en.wikipedia.org/wiki/CentOS",
+    "section": "RHEL-based",
+    "short_description": "A community distribution, 100% functionally compatible with RHEL. Joined Red Hat in 2014. [ 114 ] Terminated by Red Hat in 2024 [ 115 ] in favor of CentOS Stream , a distribution positioned upstream of RHEL. AlmaLinux and Rocky Linux are two continuations of the CentOS distribution.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 6,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "ClearOS",
+    "url": "https://en.wikipedia.org/wiki/ClearOS",
+    "section": "RHEL-based",
+    "short_description": "A Linux distribution designed for use in small and medium enterprises.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 6,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Fermi Linux LTS",
+    "url": "https://en.wikipedia.org/wiki/Fermi_Linux_LTS",
+    "section": "RHEL-based",
+    "short_description": "Based on Scientific Linux. [ 116 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 6,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Miracle Linux",
+    "url": "https://en.wikipedia.org/wiki/Miracle_Linux",
+    "section": "RHEL-based",
+    "short_description": "A Linux distribution developed by Cybertrust Japan Co., Ltd., aims to be compatible with Red Hat Enterprise Linux.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 6,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Oracle Linux",
+    "url": "https://en.wikipedia.org/wiki/Oracle_Linux",
+    "section": "RHEL-based",
+    "short_description": "Supported by Oracle . Aims to be fully compatible with Red Hat Enterprise Linux.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 6,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Red Flag Linux",
+    "url": "https://en.wikipedia.org/wiki/Red_Flag_Linux",
+    "section": "RHEL-based",
+    "short_description": "A Linux distribution developed in China and optimized for the Chinese market. Based on Asianux.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 6,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Rocks Cluster Distribution",
+    "url": "https://en.wikipedia.org/wiki/Rocks_Cluster_Distribution",
+    "section": "RHEL-based",
+    "short_description": "A Linux distribution for building a High-Performance Computing computer cluster, with a recent release supporting Cloud computing. It is based on Red Hat Enterprise Linux but with extensions to support large multi-node heterogeneous systems for clusters (HPC), Cloud, and Data Warehousing (in development).",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 6,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Rocky Linux",
+    "url": "https://en.wikipedia.org/wiki/Rocky_Linux",
+    "section": "RHEL-based",
+    "short_description": "A Linux distribution that is currently in development by the CentOS founder, Gregory Kurtzer, and aims to be compatible with Red Hat Enterprise Linux.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 6,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Scientific Linux",
+    "url": "https://en.wikipedia.org/wiki/Scientific_Linux",
+    "section": "RHEL-based",
+    "short_description": "A discontinued Linux distribution co-developed by Fermi National Accelerator Laboratory and the European Organization for Nuclear Research (CERN), which aims to be compatible with and based on Red Hat Enterprise Linux .",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 6,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Asahi Linux",
+    "url": "https://en.wikipedia.org/wiki/Asahi_Linux",
+    "section": "Other Fedora-based",
+    "short_description": "Port of Linux to Apple silicon -powered Macs .",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 7,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Amazon Linux 2",
+    "url": "https://en.wikipedia.org/wiki/Amazon_Linux_AMI",
+    "section": "Other Fedora-based",
+    "short_description": "Amazon Linux 2 is available as an Amazon Machine Image (AMI) for use on Amazon Elastic Compute Cloud (Amazon EC2). It is also available as a Docker container image and as a virtual machine image for use on Kernel-based Virtual Machine (KVM), Oracle VM VirtualBox, Microsoft Hyper-V, and VMware ESXi",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 7,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Bazzite",
+    "url": "https://en.wikipedia.org/wiki/Bazzite_(operating_system)",
+    "section": "Other Fedora-based",
+    "short_description": "A atomic gaming focused distribution developed with Universal Blue . It is similar to SteamOS .",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 7,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Berry Linux",
+    "url": "https://en.wikipedia.org/wiki/Berry_Linux",
+    "section": "Other Fedora-based",
+    "short_description": "A medium-sized Fedora-based distribution that provides support in Japanese and English.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 7,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "BLAG Linux and GNU",
+    "url": "https://en.wikipedia.org/wiki/BLAG_Linux_and_GNU",
+    "section": "Other Fedora-based",
+    "short_description": "A completely free software distribution.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 7,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "CentOS Stream",
+    "url": "https://en.wikipedia.org/wiki/CentOS_Stream",
+    "section": "Other Fedora-based",
+    "short_description": "Community-supported Linux distribution designed as a midstream between Fedora and RHEL, and well suited for servers. [ 115 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 7,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "EnGarde Secure Linux",
+    "url": "https://en.wikipedia.org/wiki/EnGarde_Secure_Linux",
+    "section": "Other Fedora-based",
+    "short_description": "Server-only Linux distribution designed to be secure. [ 117 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 7,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Fuduntu",
+    "url": "https://en.wikipedia.org/wiki/Fuduntu",
+    "section": "Other Fedora-based",
+    "short_description": "Designed to fit in somewhere between Fedora and Ubuntu.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 7,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Hanthana",
+    "url": "https://en.wikipedia.org/wiki/Hanthana_(operating_system)",
+    "section": "Other Fedora-based",
+    "short_description": "Designed to cater the needs of Sri Lankan computer users who are unable to access Internet frequently, with many most-wanted applications built in.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 7,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Korora",
+    "url": "https://en.wikipedia.org/wiki/Korora_(operating_system)",
+    "section": "Other Fedora-based",
+    "short_description": "Initially aimed at easy installation of a Gentoo system by using install scripts instead of manual configuration. Now based on Fedora.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 7,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Linpus Linux",
+    "url": "https://en.wikipedia.org/wiki/Linpus_Linux",
+    "section": "Other Fedora-based",
+    "short_description": "Focused on the Chinese market, along with Linpus Lite focused on the netbook market.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 7,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Linux XP",
+    "url": "https://en.wikipedia.org/wiki/Linux_XP",
+    "section": "Other Fedora-based",
+    "short_description": "Fedora-based shareware distribution designed to imitate the Windows environment using GNOME .",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 7,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "MeeGo",
+    "url": "https://en.wikipedia.org/wiki/MeeGo",
+    "section": "Other Fedora-based",
+    "short_description": "Built by Intel and Nokia, intended for mobile phones (mainly Nokia N9 ) and tablets. It is based on Moblin together with Maemo.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 7,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Moblin",
+    "url": "https://en.wikipedia.org/wiki/Moblin",
+    "section": "Other Fedora-based",
+    "short_description": "Built around the Intel Atom processor; supplanted by Meego when Intel and (temporarily) Nokia combined activities",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 7,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Network Security Toolkit",
+    "url": "https://en.wikipedia.org/wiki/Network_Security_Toolkit",
+    "section": "Other Fedora-based",
+    "short_description": "A live CD/DVD with security and networking tools to perform routine security and networking diagnostic and monitoring tasks.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 7,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Nobara",
+    "url": "https://en.wikipedia.org/wiki/Nobara_(operating_system)",
+    "section": "Other Fedora-based",
+    "short_description": "A a modified version of Fedora Linux with user-friendly fixes added to it. Aims at offering a better gaming, streaming, and content creation experience out of the box.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 7,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Qubes OS",
+    "url": "https://en.wikipedia.org/wiki/Qubes_OS",
+    "section": "Other Fedora-based",
+    "short_description": "Focused on security for desktop users. Based on an \"ancient\" Fedora release which is said to be upgraded under YUM .",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 7,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Red Star OS",
+    "url": "https://en.wikipedia.org/wiki/Red_Star_OS",
+    "section": "Other Fedora-based",
+    "short_description": "A North Korean Linux distribution developed at the Korea Computer Center (KCC). It is offered only in a Korean language edition, localized with North Korean terminology and spelling.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 7,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Russian Fedora Remix",
+    "url": "https://en.wikipedia.org/wiki/Russian_Fedora_Remix",
+    "section": "Other Fedora-based",
+    "short_description": "A remix of Fedora.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 7,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Sailfish OS",
+    "url": "https://en.wikipedia.org/wiki/Sailfish_OS",
+    "section": "Other Fedora-based",
+    "short_description": "Built by Jolla, Sailfish OS is a 4th generation mobile Linux system ported to a line of Sony Xperia handsets, with community ports available to alternative devices.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 7,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Sugar-on-a-Stick Linux",
+    "url": "https://en.wikipedia.org/wiki/Sugar_(software)#Sugar_on_a_Stick",
+    "section": "Other Fedora-based",
+    "short_description": "An educational operating system, originally designed for the One-Laptop-Per-Child project .",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 7,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Yellow Dog Linux",
+    "url": "https://en.wikipedia.org/wiki/Yellow_Dog_Linux",
+    "section": "Other Fedora-based",
+    "short_description": "For the PowerPC platform.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 7,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "GeckoLinux",
+    "url": "https://en.wikipedia.org/wiki/GeckoLinux",
+    "section": "openSUSE-based",
+    "short_description": "A distribution with a focus on polish and out-of-the-box desktop usability. It is available in Static and Rolling versions, based on openSUSE Leap and Tumbleweed.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 8,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "SUSE Linux Enterprise",
+    "url": "https://en.wikipedia.org/wiki/SUSE_Linux_Enterprise",
+    "section": "openSUSE-based",
+    "short_description": "Comes in two variations. SUSE Linux Enterprise Desktop (previously branded Novell Linux Desktop) is a desktop-oriented Linux distribution supplied by SUSE and targeted at the enterprise market. SUSE Linux Enterprise Server is a server-oriented Linux distribution targeted at the business market.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 8,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Mageia",
+    "url": "https://en.wikipedia.org/wiki/Mageia",
+    "section": "Mandriva-based",
+    "short_description": "A community Linux distribution initially forked from Mandriva Linux in response to the discontinuation of free versions of Mandriva Linux.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 9,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "OpenMandriva Lx",
+    "url": "https://en.wikipedia.org/wiki/OpenMandriva_Lx",
+    "section": "Mandriva-based",
+    "short_description": "A fork of Mandriva Linux by the OpenMandriva Association.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 9,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "ROSA Linux",
+    "url": "https://en.wikipedia.org/wiki/ROSA_Linux",
+    "section": "Mandriva-based",
+    "short_description": "A Russian distribution available in three different editions: ROSA Desktop Fresh, ROSA Enterprise Desktop and ROSA Enterprise Linux Server, with the latter two aiming at commercial users. Its desktop editions come bundled with proprietary software such as Adobe Flash Player , multimedia codecs and Steam .",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 9,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "ALT Linux",
+    "url": "https://en.wikipedia.org/wiki/ALT_Linux",
+    "section": "Other RPM-based",
+    "short_description": "ALT Linux is a set of RPM -based operating systems built on top of the Linux kernel and Sisyphus packages repository. ALT Linux has been developed collectively by ALT Linux Team developers community and ALT Linux Ltd.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 10,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Caldera OpenLinux",
+    "url": "https://en.wikipedia.org/wiki/Caldera_OpenLinux",
+    "section": "Other RPM-based",
+    "short_description": "A Linux distribution originally introduced by Caldera and later developed by its subsidiary Caldera Systems . It was later developed by Caldera International (which bought SCO and was renamed The SCO Group ). The distribution is no longer produced. Last release: 3.1.1 – Jan. 30, 2002",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 10,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "PCLinuxOS",
+    "url": "https://en.wikipedia.org/wiki/PCLinuxOS",
+    "section": "Other RPM-based",
+    "short_description": "A rolling release Linux Live CD distribution. Originally based on Mandrake 9.2. Later rebased on Mandriva 2007.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 10,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Red Hat Linux",
+    "url": "https://en.wikipedia.org/wiki/Red_Hat_Linux",
+    "section": "Other RPM-based",
+    "short_description": "Split into Fedora Core and Red Hat Enterprise Linux . The last official release of the unsplit distribution was Red Hat Linux 9 in March 2003.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 10,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Think Blue Linux",
+    "url": "https://en.wikipedia.org/wiki/Think_Blue_Linux",
+    "section": "Other RPM-based",
+    "short_description": "A port of Linux to IBM S/390 (later, zSeries) mainframe computers, done by the Millenux subsidiary of German company Thinking Objects Software GmbH. Discontinued in 2006.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 10,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Turbolinux",
+    "url": "https://en.wikipedia.org/wiki/Turbolinux",
+    "section": "Other RPM-based",
+    "short_description": "Originally based on Red Hat Linux.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 10,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Vine Linux",
+    "url": "https://en.wikipedia.org/wiki/Vine_Linux",
+    "section": "Other RPM-based",
+    "short_description": "A Japanese distribution originally based on Red Hat Linux.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 10,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Calculate Linux",
+    "url": "https://en.wikipedia.org/wiki/Calculate_Linux",
+    "section": "Gentoo-based",
+    "short_description": "Calculate Linux is a family of distributions.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 11,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "ChromeOS",
+    "url": "https://en.wikipedia.org/wiki/ChromeOS",
+    "section": "Gentoo-based",
+    "short_description": "Google 's Linux-based operating system used on various Chromebooks , Chromeboxes and tablet computers . It is primarily Internet-based, launching each app within the Chrome browser. The OS features a user interface that looks very similar to Chrome instead of GNOME , Cinnamon , LXQt , Xfce , etc. A version called ChromeOS Flex was released in 2022 to replace Windows and Mac on older devices.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 11,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "ChromiumOS",
+    "url": "https://en.wikipedia.org/wiki/ChromiumOS",
+    "section": "Gentoo-based",
+    "short_description": "Free and open-source version of ChromeOS.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 11,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Clip OS",
+    "url": "https://en.wikipedia.org/wiki/CLIP_OS",
+    "section": "Gentoo-based",
+    "short_description": "Created by ANSSI, the National Cybersecurity Agency of France and based on hardened Gentoo, it's aimed to secure sensitive information which meets the needs of the French Administration.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 11,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Container Linux",
+    "url": "https://en.wikipedia.org/wiki/Container_Linux_by_CoreOS",
+    "section": "Gentoo-based",
+    "short_description": "Linux distribution by CoreOS designed for clustered and containerized deployments with update subscription",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 11,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Funtoo Linux",
+    "url": "https://en.wikipedia.org/wiki/Funtoo_Linux",
+    "section": "Gentoo-based",
+    "short_description": "Discontinued derivative created by Daniel Robbins , founder of Gentoo. Designed to improve upon core Gentoo technologies.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 11,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Pentoo",
+    "url": "https://en.wikipedia.org/wiki/Pentoo",
+    "section": "Gentoo-based",
+    "short_description": "Penetration-testing Live CD.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 11,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Sabayon Linux",
+    "url": "https://en.wikipedia.org/wiki/Sabayon_Linux",
+    "section": "Gentoo-based",
+    "short_description": "Discontinued Italian made Linux distribution based on Funtoo. It followed the \"out of the box\" philosophy, aiming to give the user a wide number of applications ready to use and a self-configured operating system. Like Gentoo, Sabayon used the rolling release model; it used a customized version of Red Hat's Anaconda Installer and included a Media Center application.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 11,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Absolute Linux",
+    "url": "https://en.wikipedia.org/wiki/Absolute_Linux",
+    "section": "Slackware-based",
+    "short_description": "A Light-weight Linux distribution based on Slackware",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 12,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Austrumi Linux",
+    "url": "https://en.wikipedia.org/wiki/Austrumi_Linux",
+    "section": "Slackware-based",
+    "short_description": "Slackware -based Live CD distribution. Dormant as of 2023. [ 123 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 12,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Damn Vulnerable Linux",
+    "url": "https://en.wikipedia.org/wiki/Damn_Vulnerable_Linux",
+    "section": "Slackware-based",
+    "short_description": "Damn Vulnerable Linux (DVL) is a discontinued Linux distribution geared toward computer security students.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 12,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "KateOS",
+    "url": "https://en.wikipedia.org/wiki/KateOS",
+    "section": "Slackware-based",
+    "short_description": "A desktop distribution aimed at intermediate users. It uses Xfce as its default desktop environment. No longer in development.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 12,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "MuLinux",
+    "url": "https://en.wikipedia.org/wiki/MuLinux",
+    "section": "Slackware-based",
+    "short_description": "Floppy-based Linux distribution with replaceable modules",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 12,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "NimbleX",
+    "url": "https://en.wikipedia.org/wiki/NimbleX",
+    "section": "Slackware-based",
+    "short_description": "Completely customizable through the NimbleX website. Now no longer producing new versions.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 12,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Platypux",
+    "url": "https://en.wikipedia.org/wiki/Platypux",
+    "section": "Slackware-based",
+    "short_description": "A French Linux distribution of the Slackware family.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 12,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Porteus",
+    "url": "https://en.wikipedia.org/wiki/Porteus_(operating_system)",
+    "section": "Slackware-based",
+    "short_description": "A small and portable Linux distro focused on speed.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 12,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Salix OS",
+    "url": "https://en.wikipedia.org/wiki/Salix_OS",
+    "section": "Slackware-based",
+    "short_description": "Originally a fork of Zenwalk, Salix is a complete Linux distribution fully backwards compatible with Slackware. It uses Xfce , KDE , LXDE , Fluxbox or Ratpoison as its default desktop environment. Salix OS is available as 32 and 64bit version, and also as Live CD versions.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 12,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Sentry Firewall",
+    "url": "https://en.wikipedia.org/wiki/Sentry_Firewall",
+    "section": "Slackware-based",
+    "short_description": "A firewall, server, or intrusion detection system distribution",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 12,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Slackintosh",
+    "url": "https://en.wikipedia.org/wiki/Slackintosh",
+    "section": "Slackware-based",
+    "short_description": "An unofficial port of Slackware to the PowerPC architecture",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 12,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Slax",
+    "url": "https://en.wikipedia.org/wiki/Slax",
+    "section": "Slackware-based",
+    "short_description": "A live CD which aims to provide a complete desktop for general use for low-powered computers. Its download size is about 300 MB, almost the same as Puppy Linux's. It can run from RAM, from Live CD, USB or hard drive. Permanent installation of Slax is not recommended or supported; it is designed for \"live\" use only. Also can be run from a USB flash drive. Originally based on Slackware, then switched to Debian since v9.2.1. Returned to a Slackware base as of v15.0.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 12,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Topologilinux",
+    "url": "https://en.wikipedia.org/wiki/Topologilinux",
+    "section": "Slackware-based",
+    "short_description": "Designed to run from within Microsoft Windows , Topologilinux can be installed without any changes to the user's hard disk. Outdated.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 12,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "VectorLinux",
+    "url": "https://en.wikipedia.org/wiki/VectorLinux",
+    "section": "Slackware-based",
+    "short_description": "A lightweight Linux distribution designed to be easy to use even for new users. Generally considered well-suited for older hardware.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 12,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Zenwalk",
+    "url": "https://en.wikipedia.org/wiki/Zenwalk",
+    "section": "Slackware-based",
+    "short_description": "Originally a minimal version of Slackware, Zenwalk has evolved into a very different operating system; however, compatibility with Slackware is still maintained.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 12,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "ZipSlack",
+    "url": "https://en.wikipedia.org/wiki/ZipSlack",
+    "section": "Slackware-based",
+    "short_description": "A lightweight and portable version of Slackware.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 12,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "/e/",
+    "url": "https://en.wikipedia.org/wiki//e/_(operating_system)",
+    "section": "Android-based",
+    "short_description": "/e/ (also known as /e/ OS and /e/OS, formerly Eelo) is an Android-based mobile operating system and associated online services. The operating system is a fork of LineageOS and Android.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 13,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Android-x86",
+    "url": "https://en.wikipedia.org/wiki/Android-x86",
+    "section": "Android-based",
+    "short_description": "Android-x86 is an open source project which produces an unofficial port of the Android mobile operating system. It is made to run on devices powered by x86 processors, rather than RISC-based ARM chips. Respective mods of CyanogenMod and LineageOS for x86 were and are available.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 13,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "CalyxOS",
+    "url": "https://en.wikipedia.org/wiki/CalyxOS",
+    "section": "Android-based",
+    "short_description": "CalyxOS is an operating system for smartphones based on Android with mostly free and open-source software. It is produced by the Calyx Institute as part of its mission to \"defend online privacy, security and accessibility.\"",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 13,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "CopperheadOS",
+    "url": "https://en.wikipedia.org/wiki/CopperheadOS",
+    "section": "Android-based",
+    "short_description": "CopperheadOS is a mobile operating system for smartphones, based on the Android mobile platform. It adds privacy and security features to the official releases of the Android Open Source Project by Google.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 13,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "CyanogenMod",
+    "url": "https://en.wikipedia.org/wiki/CyanogenMod",
+    "section": "Android-based",
+    "short_description": "A discontinued open-source operating system for mobile devices, based on the Android mobile platform. LineageOS is an actively maintained fork of CyanogenMod. [ 125 ] [ 126 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 13,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "DivestOS",
+    "url": "https://en.wikipedia.org/wiki/DivestOS",
+    "section": "Android-based",
+    "short_description": "DivestOS was a free operating system (OS) based on the Android mobile platform. It was a soft fork of LineageOS that aimed to increase security and privacy, and supported older devices. As much as possible, it removed proprietary Android components and included only free-software.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 13,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Fire OS",
+    "url": "https://en.wikipedia.org/wiki/Fire_OS",
+    "section": "Android-based",
+    "short_description": "An Android -based mobile operating system produced by Amazon for its Fire Phone and Kindle Fire range of tablets, Echo and Echo Dot, and other content delivery devices like Fire TV.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 13,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "GrapheneOS",
+    "url": "https://en.wikipedia.org/wiki/GrapheneOS",
+    "section": "Android-based",
+    "short_description": "GrapheneOS (formerly Android Hardening or AndroidHardening) is an Android-based, open source, privacy and security-focused mobile operating system for selected Google Pixel smartphones.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 13,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "LineageOS",
+    "url": "https://en.wikipedia.org/wiki/LineageOS",
+    "section": "Android-based",
+    "short_description": "A free and open-source operating system for smartphones , tablet computers , and set-top boxes , based on the Android mobile platform.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 13,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "OmniROM",
+    "url": "https://en.wikipedia.org/wiki/OmniROM",
+    "section": "Android-based",
+    "short_description": "OmniROM is an open-source operating system for smartphones and tablet computers, based on the Android mobile platform. It involves a number of prominent developers from other projects, including the discontinued CyanogenMod operating system. [ 127 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 13,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Paranoid Android",
+    "url": "https://en.wikipedia.org/wiki/Paranoid_Android_(software)",
+    "section": "Android-based",
+    "short_description": "Paranoid Android is an open-source operating system for smartphones and tablet computers, based on the Android mobile platform.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 13,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Remix OS",
+    "url": "https://en.wikipedia.org/wiki/Remix_OS",
+    "section": "Android-based",
+    "short_description": "Remix OS was a computer operating system for personal computers with x86 and ARM architectures that, prior to discontinuation of development, shipped with a number of 1st- and 3rd-party devices. Remix OS allowed PC users to run Android mobile apps on any compatible Intel-based PC.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 13,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Replicant",
+    "url": "https://en.wikipedia.org/wiki/Replicant_(operating_system)",
+    "section": "Android-based",
+    "short_description": "A free operating system (OS) based on the Android mobile platform that aims to replace all proprietary Android components with free-software counterparts.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 13,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Resurrection Remix OS",
+    "url": "https://en.wikipedia.org/wiki/Resurrection_Remix_OS",
+    "section": "Android-based",
+    "short_description": "Resurrection Remix OS, abbreviated as RR, is a free and open-source operating system for smartphones and tablet computers, based on the Android mobile platform.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 13,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "CRUX",
+    "url": "https://en.wikipedia.org/wiki/CRUX",
+    "section": "Source-based",
+    "short_description": "CRUX is a lightweight, x86-64 -optimized Linux distribution targeted at experienced users. The focus is \" keep it simple \", which is reflected in a simple tar.xz -based package system, BSD -style initscripts, and a relatively small collection of trimmed packages. Inspiration for Arch Linux .",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 14,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "GoboLinux",
+    "url": "https://en.wikipedia.org/wiki/GoboLinux",
+    "section": "Source-based",
+    "short_description": "A Linux distribution which redefines the file system hierarchy by installing everything belonging to one application in one folder under /Programs, and using symlinks from /System and its subfolders to point to the proper files.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 14,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Linux from Scratch",
+    "url": "https://en.wikipedia.org/wiki/Linux_from_Scratch",
+    "section": "Source-based",
+    "short_description": "A do it yourself distribution built from the ground up using instructions in a book of the same name. Has no package manager, as the user is expected to build each package manually from source by following the book instructions.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 14,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Source Mage",
+    "url": "https://en.wikipedia.org/wiki/Source_Mage",
+    "section": "Source-based",
+    "short_description": "A source code-based Linux distribution, descended from Sorcerer.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 14,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "T2 SDE",
+    "url": "https://en.wikipedia.org/wiki/T2_SDE",
+    "section": "Source-based",
+    "short_description": "A System Development Environment for building a Linux distribution.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 14,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "4MLinux",
+    "url": "https://en.wikipedia.org/wiki/4MLinux",
+    "section": "Other distributions",
+    "short_description": "A lightweight Linux distribution made for both 32-bit and 64-bit. When installing programs with the distribution, the distribution will retrieve the Windows version rather than the Linux version due to it coming pre-installed with Wine (A compatibility layer for Windows applications), and not having any package manager.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Alpine Linux",
+    "url": "https://en.wikipedia.org/wiki/Alpine_Linux",
+    "section": "Other distributions",
+    "short_description": "A security-oriented, lightweight Linux distribution based on musl and BusyBox . Has a derivative, postmarketOS , for mobile devices.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Bedrock Linux",
+    "url": "https://en.wikipedia.org/wiki/Bedrock_Linux",
+    "section": "Other distributions",
+    "short_description": "A meta distribution of linux that aims to allow users to install and maintain packages from any distribution. [ 128 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "CHAOS",
+    "url": "https://en.wikipedia.org/wiki/CHAOS_(operating_system)",
+    "section": "Other distributions",
+    "short_description": "a small (6 MB) Linux distribution designed for creating ad hoc computer clusters.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Chimera Linux",
+    "url": "https://en.wikipedia.org/wiki/Chimera_Linux",
+    "section": "Other distributions",
+    "short_description": "An independent Linux distribution that uses FreeBSD utilities, LLVM and Clang for compiling software, dinit init system, and musl libc.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Clear Linux OS",
+    "url": "https://en.wikipedia.org/wiki/Clear_Linux_OS",
+    "section": "Other distributions",
+    "short_description": "Intel 's rolling-release Linux distribution, optimized for Intel's own processors for performance and security. Discontinued.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "DD-WRT",
+    "url": "https://en.wikipedia.org/wiki/DD-WRT",
+    "section": "Other distributions",
+    "short_description": "Embedded firewall Linux distribution.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Dragora GNU/Linux-Libre",
+    "url": "https://en.wikipedia.org/wiki/Dragora_GNU/Linux-Libre",
+    "section": "Other distributions",
+    "short_description": "A Linux distribution written entirely from scratch [ 129 ] and sharing some similarities with Slackware . Approved by the GNU Project as a free operating system. [ 130 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Firefox OS",
+    "url": "https://en.wikipedia.org/wiki/Firefox_OS",
+    "section": "Other distributions",
+    "short_description": "A discontinued open-source operating system – made for smartphones, tablet computers and smart TVs – designed by Mozilla and external contributors.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "fli4l",
+    "url": "https://en.wikipedia.org/wiki/Fli4l",
+    "section": "Other distributions",
+    "short_description": "A router and firewall Linux distribution [ 131 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Foresight Linux",
+    "url": "https://en.wikipedia.org/wiki/Foresight_Linux",
+    "section": "Other distributions",
+    "short_description": "A rolling release Linux distribution built around the Conary package manager.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "GeeXboX",
+    "url": "https://en.wikipedia.org/wiki/GeeXboX",
+    "section": "Other distributions",
+    "short_description": "Live CD media center Linux distribution, mainly to play special-encoded video files (e.g.: .ogg, XVID) on home theater.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "GNU Guix System",
+    "url": "https://en.wikipedia.org/wiki/GNU_Guix_System",
+    "section": "Other distributions",
+    "short_description": "A distribution built around the GNU Guix package manager, which provides purely functional package management with build automation, build isolation, easy system upgrades and rollbacks, and an emphasis on free software. [ 132 ] Supports amongst others unprivileged package management and per-user profiles.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Jlime",
+    "url": "https://en.wikipedia.org/wiki/Jlime",
+    "section": "Other distributions",
+    "short_description": "Linux distribution for the HP Jornada 6xx and 7xx and NEC MobilePro 900(c) handhelds.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "KaiOS",
+    "url": "https://en.wikipedia.org/wiki/KaiOS",
+    "section": "Other distributions",
+    "short_description": "A mobile operating system based on Linux , developed by KaiOS Technologies, a US-based company.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Kwort",
+    "url": "https://en.wikipedia.org/wiki/Kwort",
+    "section": "Other distributions",
+    "short_description": "A distribution originally based on CRUX. Contrary to CRUX, the user does not need to compile a new kernel.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Lightweight Portable Security",
+    "url": "https://en.wikipedia.org/wiki/Lightweight_Portable_Security",
+    "section": "Other distributions",
+    "short_description": "A CRUX -based distribution created by the United States Department of Defense that boots entirely in RAM [ 133 ] [ 134 ]",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "LinuxConsole",
+    "url": "https://en.wikipedia.org/wiki/LinuxConsole",
+    "section": "Other distributions",
+    "short_description": "Independently developed lightweight distribution for old computers made with causal users and youth in mind.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Linux for PlayStation 2",
+    "url": "https://en.wikipedia.org/wiki/Linux_for_PlayStation_2",
+    "section": "Other distributions",
+    "short_description": "Sony Computer Entertainment Linux distribution released officially for the PlayStation 2 video game console.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Linux Router Project",
+    "url": "https://en.wikipedia.org/wiki/Linux_Router_Project",
+    "section": "Other distributions",
+    "short_description": "Embedded networking appliance progenitor (defunct).",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "MkLinux",
+    "url": "https://en.wikipedia.org/wiki/MkLinux",
+    "section": "Other distributions",
+    "short_description": "A legacy Linux distribution for PowerPC systems that runs the Linux kernel as a server on a Mach microkernel .",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Nitix",
+    "url": "https://en.wikipedia.org/wiki/Nitix",
+    "section": "Other distributions",
+    "short_description": "Developed by Net Integration Technologies Inc., Nitix claims to be the first autonomic Linux kernel–based server operating system.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "NixOS",
+    "url": "https://en.wikipedia.org/wiki/NixOS",
+    "section": "Other distributions",
+    "short_description": "Declarative Linux distribution with atomic upgrades and rollbacks built on package manager Nix . Any package build can be edited and rebuilt from source freely. An official binary cache is available for unmodified packages.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "MontaVista Linux",
+    "url": "https://en.wikipedia.org/wiki/MontaVista_Linux",
+    "section": "Other distributions",
+    "short_description": "Embedded distribution by MontaVista Software.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "OpenWrt",
+    "url": "https://en.wikipedia.org/wiki/OpenWrt",
+    "section": "Other distributions",
+    "short_description": "A router and firewall Linux distribution, also other embedded systems , a lot of routing options via opkg available.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "postmarketOS",
+    "url": "https://en.wikipedia.org/wiki/PostmarketOS",
+    "section": "Other distributions",
+    "short_description": "A security-oriented, lightweight distribution for mobile devices.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Prevas Industrial Linux",
+    "url": "https://en.wikipedia.org/wiki/Prevas",
+    "section": "Other distributions",
+    "short_description": "Embedded systems customizable Linux distribution by Prevas .",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Puppy Linux",
+    "url": "https://en.wikipedia.org/wiki/Puppy_Linux",
+    "section": "Other distributions",
+    "short_description": "A mini Linux distribution which runs well under low-end PCs – even under 32 MB RAM.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "rPath",
+    "url": "https://en.wikipedia.org/wiki/RPath",
+    "section": "Other distributions",
+    "short_description": "A distribution built around the Conary package manager. Discontinued.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "SliTaz",
+    "url": "https://en.wikipedia.org/wiki/SliTaz_GNU/Linux",
+    "section": "Other distributions",
+    "short_description": "With less than 40 MB a very small Live-Distribution, which uses 256 MB RAM (or with a special edition only 24 MB [ 135 ] ) for a complete GUI .",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Smallfoot",
+    "url": "https://en.wikipedia.org/wiki/Caldera_Smallfoot",
+    "section": "Other distributions",
+    "short_description": "Embedded, gaming and point-of-sale Linux distribution developed by the Santa Cruz Operation (SCO), formerly Caldera International and Caldera Systems – based on Caldera OpenLinux 3.x and 4.x binaries.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "SmoothWall",
+    "url": "https://en.wikipedia.org/wiki/SmoothWall",
+    "section": "Other distributions",
+    "short_description": "A router and firewall Linux distribution.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "paldo",
+    "url": "https://en.wikipedia.org/wiki/Paldo_(operating_system)",
+    "section": "Other distributions",
+    "short_description": "Independently developed desktop operating system and package manager (upkg) with a rolling release format and standard Gnome environment.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Solus",
+    "url": "https://en.wikipedia.org/wiki/Solus_project",
+    "section": "Other distributions",
+    "short_description": "Desktop Linux distribution offering Budgie, GNOME, MATE and KDE Plasma desktop environments, eopkg for package management.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Tinfoil Hat Linux",
+    "url": "https://en.wikipedia.org/wiki/Tinfoil_Hat_Linux",
+    "section": "Other distributions",
+    "short_description": "Bootable floppy Linux distribution focusing on extreme security.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Tiny Core Linux",
+    "url": "https://en.wikipedia.org/wiki/Tiny_Core_Linux",
+    "section": "Other distributions",
+    "short_description": "A minimalist (around 10 MB) Linux system focusing on providing a base system with BusyBox, FLTK and other minimalist software.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Tizen",
+    "url": "https://en.wikipedia.org/wiki/Tizen",
+    "section": "Other distributions",
+    "short_description": "A Linux-based mobile operating system backed by the Linux Foundation but developed and used primarily by Samsung Electronics .",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "tomsrtbt",
+    "url": "https://en.wikipedia.org/wiki/Tomsrtbt",
+    "section": "Other distributions",
+    "short_description": "Root boot from floppy disk. Last update May 2002.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Void Linux",
+    "url": "https://en.wikipedia.org/wiki/Void_Linux",
+    "section": "Other distributions",
+    "short_description": "An independent Linux distribution based on the XBPS package management system and runit , without systemd dependency.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 15,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "MCC Interim Linux",
+    "url": "https://en.wikipedia.org/wiki/MCC_Interim_Linux",
+    "section": "Historical distributions",
+    "short_description": "Possibly the first Linux distribution, created by the Manchester Computing Centre in February 1992.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 16,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Softlanding Linux System",
+    "url": "https://en.wikipedia.org/wiki/Softlanding_Linux_System",
+    "section": "Historical distributions",
+    "short_description": "One of the earliest Linux distributions, developed from May 1992 to late 1994 and one of the first to ship with the X Window System ; [ 136 ] Slackware was originally based on it.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 16,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  },
+  {
+    "name": "Yggdrasil Linux/GNU/X",
+    "url": "https://en.wikipedia.org/wiki/Yggdrasil_Linux/GNU/X",
+    "section": "Historical distributions",
+    "short_description": "One of the oldest Linux distributions (December 1992), not updated since 1995.",
+    "metadata": {},
+    "content_source_index": 1,
+    "table_index": 16,
+    "list_source": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+    "collection_metadata": {
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+      "collection_timestamp": "2025-12-28T10:13:57.459424",
+      "collector": "automated_scraper"
+    }
+  }
+]
